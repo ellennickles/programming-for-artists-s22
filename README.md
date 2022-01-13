@@ -1,2 +1,2 @@
-# programming-for-artists-s22
-Course Information for Programming for Artists • CCNY Electronic Design &amp; Multimedia Program (EDM) • Spring 2022
+# Programming for Artists
+ART 29526 • Electronic Design & Multimedia Program (EDM) • The City College of New York (CCNY)
