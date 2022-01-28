@@ -44,7 +44,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 
 ### Resources and examples 
 - [Miro](https://tinyurl.com/pfa-s22-miro)
-- HTML, CSS, JavaScript / p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
+- HTML, CSS, JavaScript/p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
 - [p5 first sketch]()
 - Apple's built-in app [Digital Color Meter](https://support.apple.com/guide/digital-color-meter/welcome/mac)
 - Chrome extension [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en)
