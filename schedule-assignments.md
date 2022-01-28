@@ -1,13 +1,13 @@
 # Schedule and Assignments
 
-Quicklinks • [Syllabus]() • [Resources and Inspiration]() • [Miro](https://tinyurl.com/pfa-s22-miro)
+Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artists-s22) • [Resources and Inspiration](https://github.com/ellennickles/programming-for-artists-s22/blob/main/resources-inspiration.md) • [Miro](https://tinyurl.com/pfa-s22-miro)
 
 ## Weekly Topics 
 *Topics subject to change
 
 | Date | Week | Topic |
 | ------- | ----------- | ----------- |
-| Feb 1 | Week 1 | [Introduction and Drawing]() |
+| Feb 1 | Week 1 | [Introduction and Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-1--week-1--introduction-and-drawing) |
 | Feb 8 | Week 2 | More Drawing | 
 | Feb 15 | Week 3 | Variables and Objects | 
 | Feb 22 | Week 4 | Conditionals and Boolean Variables | 
