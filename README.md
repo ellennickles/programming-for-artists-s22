@@ -117,7 +117,7 @@ There are programming exercises and reading and/or video tutorials to complete e
 - Before class, read and/or watch the assigned tutorials about fundamental coding concepts and creative programming techniques to practice together and ask about when we meet in class.
 
 ### Midsemester Exercise
-The midsemester exercise is an opportunity to apply programming concepts from the first half of the course to create a self-defined project to share in class and practice using the vocabularly that you'rve acquired for describing technical work. 
+The midsemester exercise is an opportunity to apply programming concepts from the first half of the course to create a self-defined project to share in class and practice using the vocabularly that you've acquired for describing technical work. 
 
 ### Final Project
 The course culminates with the completion of a final project to be shared in class. You are expected to push your abilities to produce something that builds off or is inspired by the concepts covered during the semester. As part of the final project, you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class. 
@@ -125,9 +125,14 @@ The course culminates with the completion of a final project to be shared in cla
 ## Grading
 Assignments will be evaluated according to the following criteria. You will never be penalized for submitting non-working code projects as long as you still submit what you have and document a solid degree of effort to problem solve. Such efforts might include trying different techniques after checking the p5 Reference, looking at examples, searching online, asking someone, and/or coming to Student Hours. 
 
-At the time of this writing, I'm exploring two different options to provide you with feedback: either via CCNY email or an individually-shared, private Google document.
+At the time of this writing, I'm exploring two different options to provide you with feedback: either via CCNY email or an individually-shared, private Google document. TBD!
 
-**Programming exercises and projects** are worth five (5) points, one (1) point for each of the following:
+Unless other noted, **late assignments** will be accepted up to one (1) week late.
+
+Not submitting an assignment or not properly citing code sources are grounds for receiving a zero (0) on an assignment. For the latter, see the statement below on the Use of Free and Open Source Materials Including Code.
+
+### Programming Exercises and Projects
+These are worth five (5) points, one (1) point for each of the following:
 - **Compliance**
     - Does the assignment address all the questions/prompts and follow the instructions?
 - **Comprehension and effort**
@@ -135,24 +140,31 @@ At the time of this writing, I'm exploring two different options to provide you 
     - You are also welcome and encouraged to incorporate additional programming concepts not covered in class!
     - If the code doesn’t work, did you submit it anyway and document a solid degree of effort to understand the problem/s and your steps troubleshoot when submitting the assignment? (It’s okay if you got stuck or struggled, just tell the story!)
 - **Clarity and readability**
-    - Is your code easy to follow? Do variables and custom functions have meaningful names to someone else looking at the code? 
+    - Is your code easy to follow? 
+    - Do variables and custom functions have meaningful names to someone else looking at the code? 
     - Is it properly indented and spaced? 
     - Is it organized? Does it make sense where variables are declared and where code blocks are placed? 
     - If applicable, it is well-commented with notes and are any code sources cited?
     - If you looked at the code in a month, would you understand what you did (or tried to do) and why?
     - Is there extra or unnecessary code? If so, is it clear that this code is not being used?
-- **Content and concept exploration (for the open-ended exercises and projects)**
+- **Content and concept exploration** 
+    - (For the open-ended exercises and projects)
     - Is there evidence that you experimented or played with the possibilities of code to discover inventive outcomes?
     - Are the results distinct from the examples and other projects? 
     - If applicable, does it extend your past work?
 - **Timeliness**
     - Was the assignment submitted on time?
 
-**Late assignments**: weekly homework will be accepted up to one (1) week late.
+### Midsemester Exercise
+Evaluation of this exercise will follow the above critera for the code, worth five (5) points, plus the following criteria for sharing the project in class with a ~4-min presentation, also worth five (5) points, one (1) point for addressing each of the following:
+- What was your goal or inspiration?
+- What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
+- Explain what you did in your code to produce that feature. Walk us through the related code, and practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
+- Describe one (1) thing you learned in making your sketch. For example, did something unexpected happen? Did you overcome a challenge?
+- What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
 
-Not submitting an assignment or not properly citing code sources are grounds for receiving a zero (0) on an assignment. For the latter, see the statement below on the Use of Free and Open Source Materials Including Code.
-
-The **midsemester exercise** and **final project** will follow the above criteria for the code plus additional criteria for sharing the projects in class, provided on the schedule for the relevant weeks.
+### Final Project
+Evaluation of the final project will follow the above criteria for the code plus additional criteria for sharing a prototype of the project and presenting the final project in class, provided on the schedule for the relevant weeks.
 
 ### Final Course Evaluation 
 Your final grade will be based on participation and attendance and the completion of all assignments, including the midsemester exercise and final project, according to this breakdown:
