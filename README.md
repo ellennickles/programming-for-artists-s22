@@ -158,7 +158,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - Was the assignment submitted on time?
 
 ### Midsemester Exercise
-Evaluation of this exercise will follow the above critera for the code, worth five (5) points, plus the following criteria for sharing the project in class with a ~4-min presentation, also worth five (5) points, one (1) point for addressing each of the following:
+Evaluation of this exercise will follow the above critera for the code, worth five (5) points, plus the following criteria for sharing the project in class with a four (4) min presentation, also worth five (5) points, one (1) point for addressing each of the following:
 - What was your goal or inspiration?
 - What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
 - Explain what you did in your code to produce that feature. Walk us through the related code, and practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
@@ -166,7 +166,7 @@ Evaluation of this exercise will follow the above critera for the code, worth fi
 - What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
 
 ### Final Project
-Evaluation of the final project will follow the above criteria for the code plus additional criteria for sharing a prototype of the project and presenting the final project in class, provided on the schedule for the relevant weeks.
+Evaluation of the final project will follow the above criteria for any code plus additional criteria for presenting a proposal and the final project in class, provided on the schedule for the relevant weeks.
 
 ### Final Course Evaluation 
 Your final grade will be based on participation and attendance and the completion of all assignments, including the midsemester exercise and final project, according to this breakdown:
