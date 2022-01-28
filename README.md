@@ -14,7 +14,7 @@ ART 39552 • Electronic Design & Multimedia Program (EDM) • The City College 
 
 ## Contents
 - [Description](https://github.com/ellennickles/programming-for-artists-s22#description)
-- [Learning objectives](https://github.com/ellennickles/programming-for-artists-s22#learning-objectives)
+- [Learning Objectives](https://github.com/ellennickles/programming-for-artists-s22#learning-objectives)
 - [Class Format](https://github.com/ellennickles/programming-for-artists-s22#class-format)
 - [Community Guidelines](https://github.com/ellennickles/programming-for-artists-s22#community-guidelines)
 - [Communication](https://github.com/ellennickles/programming-for-artists-s22#communication)
