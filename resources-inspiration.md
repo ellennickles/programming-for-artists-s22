@@ -1,6 +1,6 @@
 # Resources and Inspiration
 
-Quicklinks • [Syllabus]() • [Schedule and Assignments]() • [Miro](https://tinyurl.com/pfa-s22-miro)
+Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artists-s22) • [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md) • [Miro](https://tinyurl.com/pfa-s22-miro)
 
 ## p5.js
 - p5.js [Web Editor](https://editor.p5js.org/) • [Reference](https://p5js.org/reference/) • [Examples](https://p5js.org/examples/) 
