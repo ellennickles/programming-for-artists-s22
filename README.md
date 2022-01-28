@@ -8,22 +8,22 @@ ART 39552 • Electronic Design & Multimedia Program (EDM) • The City College 
 | Instructor   | Ellen Nickles (she/her) |
 | Contact | [enickles@ccny.cuny.edu](mailto:enickles@ccny.cuny.edu )<br>On weekdays I'll do my best to respond within 24 hours |
 | Student Hours  | On **Zoom** Mondays 12pm - 1pm ET or email me • [Sign up here](https://calendly.com/ellennickles) |
-| Assignments   | [Schedule and Assignments]() |
-| Supplemental Materials   | [Resources and Inspiration]() |  
+| Assignments   | [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md) |
+| Supplemental Materials   | [Resources and Inspiration](https://github.com/ellennickles/programming-for-artists-s22/blob/main/resources-inspiration.md) |  
 
 
 ## Contents
-- [Description]()
-- [Learning objectives]()
-- [Class Format]()
-- [Community Guidelines]()
-- [Communication]()
-- [Support]()
-- [Equipment]()
-- [Participation and Attendance]()
-- [Assignments Overview]()
-- [Grading]()
-- [Statements]()
+- [Description](https://github.com/ellennickles/programming-for-artists-s22#description)
+- [Learning objectives](https://github.com/ellennickles/programming-for-artists-s22#learning-objectives)
+- [Class Format](https://github.com/ellennickles/programming-for-artists-s22#class-format)
+- [Community Guidelines](https://github.com/ellennickles/programming-for-artists-s22#community-guidelines)
+- [Communication](https://github.com/ellennickles/programming-for-artists-s22#communication)
+- [Support](https://github.com/ellennickles/programming-for-artists-s22#support)
+- [Equipment](https://github.com/ellennickles/programming-for-artists-s22#equipment)
+- [Participation and Attendance](https://github.com/ellennickles/programming-for-artists-s22#participation-and-attendance)
+- [Assignments Overview](https://github.com/ellennickles/programming-for-artists-s22#assignments-overview)
+- [Grading](https://github.com/ellennickles/programming-for-artists-s22#grading)
+- [Statements](https://github.com/ellennickles/programming-for-artists-s22#statements)
 
 ## Description
 This course introduces programming the computer for creative applications. It presents computational thinking and fundamental concepts of programming including variables, conditionals, functions, iteration (loops), and data structures (objects and arrays) in the context of screen-based projects, such as for animation, text manipulation, and other media. The course assumes no prior programming knowledge and presents concepts in a manner that is accessible to everyone. Problem solving skills are emphasized for students to learn how to learn to program to express their creative ideas. The free and open source, JavaScript-based [p5.js](https://p5js.org/) (p5) programming framework for creative coding is the primary vehicle for the course using the [p5 web editor](https://editor.p5js.org/).
@@ -73,9 +73,9 @@ How to ask to for technical help:
 - Clearly describe what you want to happen, and what is happening instead.
 - Provide enough information in order for someone to recreate the problem.
 - Ideally, provide a link to the code itself.
-- In addition, here are some examples of [code-related questions]() on our Resources and Inspiration page.
+- In addition, here are some examples of [code-related questions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/resources-inspiration.md#example-code-questions) on our Resources and Inspiration page.
 
-In general, be sure to consult our [Resources and Inspiration]() page for additional programming resources.
+In general, be sure to consult our [Resources and Inspiration](https://github.com/ellennickles/programming-for-artists-s22/blob/main/resources-inspiration.md) page for additional programming resources.
 
 If you ever feel that you are struggling with the material or falling behind, please do not hesitate to reach out so we can work together to provide you with the support that you need.
 
@@ -99,7 +99,7 @@ You are expected to arrive to class on time and be ready to start at 9:00am ET. 
 
 
 ## Assignments Overview
-All assignments will be posted on [Schedule and Assignments](), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one week after they are assigned. Assignments turned in late (up to one week) will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
+All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one week after they are assigned. Assignments turned in late (up to one week) will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
 
 I recommend that you start the assignments as early in the week as possible, soon after each class meeting. Don’t wait until the night before it's due. Learning a programming language takes time to practice.
 
@@ -111,7 +111,7 @@ There are programming exercises and reading and/or video tutorials to complete e
 - Throughout the semester, there are also open-ended, freestyle exercises to explore and apply the concepts in your own creative ways.
 - All exercises are expected to be submitted by the stated deadlines, and you should be prepared to show and talk about them in class.
 - Expect to submit your exercises using a Google Form. All submitted exercises will be available to the class so we can learn from one another. (There are always multiple creative solutions with code!)
-- As of this writing, there are ten (10) weekly homework assignments. Check the [Schedule and Assignments]() for specific homework descriptions, due dates, and submission links.
+- As of this writing, there are ten (10) weekly homework assignments. Check the [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md) for specific homework descriptions, due dates, and submission links.
 
 #### Reading and Video Tutorials
 - Before class, read and/or watch the assigned tutorials about fundamental coding concepts and creative programming techniques to practice together and ask about when we meet in class.
