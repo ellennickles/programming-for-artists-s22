@@ -129,7 +129,7 @@ Assignments will be evaluated according to the following criteria. You will neve
 
 At the time of this writing, I'm exploring two different options to provide you with feedback: either via CCNY email or an individually-shared, private Google document. TBD!
 
-Unless other noted, **late assignments** will be accepted up to one (1) week late.
+Unless otherwise noted, **late assignments** will be accepted up to one (1) week late.
 
 Not submitting an assignment or not properly citing code sources are grounds for receiving a zero (0) on an assignment. For the latter, see the statement below on the Use of Free and Open Source Materials Including Code.
 
@@ -143,8 +143,8 @@ These are worth five (5) points, one (1) point for each of the following:
     - If the code doesn’t work, did you submit it anyway and document a solid degree of effort to understand the problem/s and your steps troubleshoot when submitting the assignment? (It’s okay if you got stuck or struggled, just tell the story!)
 - **Clarity and readability**
     - Is your code easy to follow? 
-    - Do variables and custom functions have meaningful names to someone else looking at the code? 
     - Is it properly indented and spaced? 
+    - Do variables and custom functions have meaningful names to someone else looking at the code? 
     - Is it organized? Does it make sense where variables are declared and where code blocks are placed? 
     - If applicable, it is well-commented with notes and are any code sources cited?
     - If you looked at the code in a month, would you understand what you did (or tried to do) and why?
@@ -158,15 +158,29 @@ These are worth five (5) points, one (1) point for each of the following:
     - Was the assignment submitted on time?
 
 ### Midsemester Exercise
-Evaluation of this exercise will follow the above critera for the code, worth five (5) points, plus the following criteria for sharing the project in class with a four (4) min presentation, also worth five (5) points, one (1) point for addressing each of the following:
-- What was your goal or inspiration?
-- What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
-- Explain what you did in your code to produce that feature. Walk us through the related code, and practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
-- Describe one (1) thing you learned in making your sketch. For example, did something unexpected happen? Did you overcome a challenge?
-- What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
+- **Exercise**: The exercise is worth five (5) points, and the evaluation will follow the above critera for the code.
+- **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
+    - What was your goal or inspiration?
+    - What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
+    - Explain what you did in your code to produce that feature. Walk us through the related code, and practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
+    - Describe one (1) thing you learned in making your sketch. For example, did something unexpected happen? Did you overcome a challenge?
+    - What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
 
 ### Final Project
-Evaluation of the final project will follow the above criteria for any code plus additional criteria for presenting a proposal and the final project in class, provided on the schedule for the relevant weeks.
+- **Proposal**: The proposal is worth five (5) points, one (1) point for addressing each of the following:
+    - *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
+    - *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
+    - *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
+    - *Plan*: What steps do you need to take to bring your project to completion?
+    - *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
+- **Prototype**: A prototype of you project is worth five (5) points, and the evaluation of will follow the above critera for the code.
+- **Completed Project**: Your completed project is worth five (5) points, and the evaluation of will follow the above critera for the code.
+- **Presentation**: This is a four (4) min presentation worth five (5) points, one (1) point for addressing each of the following:
+    - Demonstrate what your project does that emphasizes its computational aspects.
+    - Walk us through the code related to the feature that most interests you.
+    - What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
+    - Are there any next steps to further develop the project?
+    - How do you feel about WHY you might want to use code in your work now compared to the beginning of the semester? 
 
 ### Final Course Evaluation 
 Your final grade will be based on participation and attendance and the completion of all assignments, including the midsemester exercise and final project, according to this breakdown:
