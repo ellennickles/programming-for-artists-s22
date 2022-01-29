@@ -167,7 +167,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
 
 ### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
-- **Proposal**: The proposal is worth five (5) points, one (1) point for addressing each of the following:
+- **Proposal**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
     - *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
     - *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
     - *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
