@@ -173,8 +173,8 @@ These are worth five (5) points, one (1) point for each of the following:
     - *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
     - *Plan*: What steps do you need to take to bring your project to completion?
     - *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
-- **Prototype**: A prototype of you project is worth five (5) points, and the evaluation of will follow the above critera for the code.
-- **Completed project**: Your completed project is worth five (5) points, and the evaluation of will follow the above critera for the code.
+- **Prototype**: A prototype of you project is worth five (5) points, and the evaluation will follow the above critera for the code.
+- **Completed project**: Your completed project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a four (4) min presentation worth five (5) points, one (1) point for addressing each of the following:
     - Demonstrate what your project does that emphasizes its computational aspects.
     - Walk us through the code related to the feature that most interests you.
