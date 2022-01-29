@@ -164,7 +164,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
     - Explain what you did in your code to produce that feature. Walk us through the related code, and practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
     - Describe one (1) thing you learned in making your sketch. For example, did something unexpected happen? Did you overcome a challenge?
-    - What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
+    - What code-related questions came up for you? Or, what do you want to know more about or how to do? 
 
 ### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
 - **Proposal**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
