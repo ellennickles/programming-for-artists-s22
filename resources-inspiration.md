@@ -26,9 +26,9 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 ## Example Code Questions
 Figuring out how to ask questions in a technical class can be a learning process all its own. Here's a breakdown with examples to get the process started. Try to be as specific as you can. Source: [NYU ITP ICM Code](https://github.com/ITPNYU/ICM-2019-Code/wiki/Example-Questions)
 
-- **I have a problem with my code**
+- I have a problem with my code
     - In line 87 of my sketch (provide link), why does the rectangle not show up in the center of the canvas even though I am calling `rectMode(CENTER)` in line 86?
-- **I need a break down!** • What does this error message mean exactly?
+- I need a break down! • What does this error message mean exactly?
     - p5.js says: You wrote `rect(X,X)` and `rect()` was expecting 4 parameters. Try `rect(X,X,X,X)` because `rect()` takes different numbers of parameters depending on what you want to do. Click this link to learn more: [p5js.org/reference/#p5/rect](https://p5js.org/reference/#p5/rect)
 - Syntax
     - What does "function" mean?
