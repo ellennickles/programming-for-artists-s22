@@ -140,7 +140,7 @@ These are worth five (5) points, one (1) point for each of the following:
 - **Comprehension and effort**
     - Does the assignment demonstrate understanding of the programming concepts and techniques introduced in class?
     - You are also welcome and encouraged to incorporate additional programming concepts not covered in class!
-    - If the code doesn’t work, did you submit it anyway and document a solid degree of effort to understand the problem/s and your steps troubleshoot when submitting the assignment? (It’s okay if you got stuck or struggled, just tell the story!)
+    - If the code doesn’t work, did you submit it anyway and document a solid degree of effort to understand the problem/s and your steps to troubleshoot when submitting the assignment? (It’s okay if you got stuck or struggled, just tell the story!)
 - **Clarity and readability**
     - Is your code easy to follow? 
     - Is it properly indented and spaced? 
