@@ -30,11 +30,11 @@ This course introduces programming the computer for creative applications. It pr
 
 ## Learning Objectives
 Upon completion of this course, we will be able to:
-* describe possibilities of computational thinking and coding for creative applications;
-* recognize p5.js (p5) as a Javascript framework for drawing graphics and working with media on the HTML Canvas element of a web page;
-* identify fundamental coding concepts, such as variables, conditionals, iteration (loops), functions, and data structures (objects and arrays);
-* identify approaches to debug errors in our code, including how to interpret error messages, and print messages to the Console of the p5 web editor;
-* practice and apply these coding concepts and debugging approaches in our creative work using p5.
+- describe possibilities of computational thinking and coding for creative applications;
+- recognize p5.js (p5) as a Javascript framework for drawing graphics and working with media on the HTML Canvas element of a web page;
+- identify fundamental coding concepts, such as variables, conditionals, iteration (loops), functions, and data structures (objects and arrays);
+- identify approaches to debug errors in our code, including how to interpret error messages, and print messages to the Console of the p5 web editor;
+- practice and apply these coding concepts and debugging approaches in our creative work using p5.
 
 ## Class Format
 Programming for Artists is a 15-week course that meets once a week in person at the scheduled time. There are assignments to do before each class. These assignments are relevant to the material from previous classes and build towards a final project to share at the end of the semester.
