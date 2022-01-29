@@ -99,7 +99,7 @@ You are expected to arrive to class on time and be ready to start at 9:00am ET. 
 
 
 ## Assignments Overview
-All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one week after they are assigned. Assignments turned in late (up to one week) will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
+All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
 
 I recommend that you start the assignments as early in the week as possible, soon after each class meeting. Don’t wait until the night before it's due. Learning a programming language takes time to practice.
 
