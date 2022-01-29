@@ -157,7 +157,7 @@ These are worth five (5) points, one (1) point for each of the following:
 - **Timeliness**
     - Was the assignment submitted on time?
 
-### Midsemester Exercise
+### [Midsemester Exercise](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#midsemester-exercise)
 - **Exercise**: The exercise is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
     - What was your goal or inspiration?
@@ -166,7 +166,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - Describe one (1) thing you learned in making your sketch. For example, did something unexpected happen? Did you overcome a challenge?
     - What code-related questions came up for you? Or, what do you know want to know more about or how to do? 
 
-### Final Project
+### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
 - **Proposal**: The proposal is worth five (5) points, one (1) point for addressing each of the following:
     - *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
     - *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
