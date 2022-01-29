@@ -117,7 +117,7 @@ There are programming exercises and reading and/or video tutorials to complete e
 - Before class, read and/or watch the assigned tutorials about fundamental coding concepts and creative programming techniques to practice together and ask about when we meet in class.
 
 ### Midsemester Exercise
-The midsemester exercise is an opportunity to apply programming concepts from the first half of the course to create a self-defined project to share in class and practice using the vocabularly that you've acquired for describing technical work. 
+The midsemester creative exercise is an opportunity to apply programming concepts from the first half of the course to create a self-defined project to share in class and practice using the vocabularly that you've acquired for describing technical work. 
 
 ### Final Project
 The course culminates with the completion of a final project to be shared in class. You are expected to push your abilities to produce an open-ended creative project that builds off or is inspired by the concepts covered during the semester. As part of the final project, you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class. 
@@ -158,7 +158,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - Was the assignment submitted on time?
 
 ### [Midsemester Exercise](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#midsemester-exercise)
-- **Exercise**: The exercise is worth five (5) points, and the evaluation will follow the above critera for the code.
+- **Creative exercise**: The creative exercise is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
     - What was your goal or inspiration?
     - What does your sketch do? Choose one feature or interaction to demo; which one is the most interesting to you and why? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
@@ -174,7 +174,7 @@ These are worth five (5) points, one (1) point for each of the following:
     - *Plan*: What steps do you need to take to bring your project to completion?
     - *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 - **Prototype**: A prototype of you project is worth five (5) points, and the evaluation of will follow the above critera for the code.
-- **Completed Project**: Your completed project is worth five (5) points, and the evaluation of will follow the above critera for the code.
+- **Completed project**: Your completed project is worth five (5) points, and the evaluation of will follow the above critera for the code.
 - **Presentation**: This is a four (4) min presentation worth five (5) points, one (1) point for addressing each of the following:
     - Demonstrate what your project does that emphasizes its computational aspects.
     - Walk us through the code related to the feature that most interests you.
