@@ -188,7 +188,7 @@ Your final grade will be based on participation and attendance and the completio
 - 10% Midsemester exercise (5% exercise, 5% presentation)
 - 20% Final project (5% proposal, 5% prototype, 5% project, and 5% presentation)
 
-This class uses the standard A through F letter grading system, and grades will be determined according to this scale: A 100-94, A- 93.9-90, B+ 89.9-87, B 86.9-84, B- 83.9-80, C+ 79.9-77, C 76.9-74, C- 73.9-70, D+ 69.9-67, D 66.9-64, D- 63.9-60, and F 59.9 and below
+This class uses the standard A through F letter grading system, and grades will be determined according to this scale: A 100-94, A- 93.9-90, B+ 89.9-87, B 86.9-84, B- 83.9-80, C+ 79.9-77, C 76.9-74, C- 73.9-70, D+ 69.9-67, D 66.9-64, D- 63.9-60, and F 59.9 and below.
 
 ## Statements
 ### Academic Integrity
