@@ -190,6 +190,8 @@ Your final grade will be based on participation and attendance and the completio
 
 This class uses the standard A through F letter grading system, and grades will be determined according to this scale: A 100-94, A- 93.9-90, B+ 89.9-87, B 86.9-84, B- 83.9-80, C+ 79.9-77, C 76.9-74, C- 73.9-70, D+ 69.9-67, D 66.9-64, D- 63.9-60, and F 59.9 and below.
 
+Last day to withdraw from course and earn a grade of 'W' on your transcript, which isn't counted towards your GPA and allows you to retake the course, is May 17th. 
+
 ## Statements
 ### Academic Integrity
 In keeping with CCNY’s statement on [Academic Integrity](https://www.ccny.cuny.edu/about/integrity), this course abides by the [CUNY Policy on Academic Policy](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/), which states that “plagiarism is the act of presenting another person’s ideas, research or writings as your own.” Here are some examples of plagiarism from the policy:
