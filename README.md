@@ -92,11 +92,10 @@ This class is highly participatory, and there are many ways to demonstrate your 
 - Contribute to discussions and participate in group activities (we have so much to learn from one another)
 
 ### Absences
-Attendance is mandatory. If you think you will be absent, please contact me as soon as possible, at least 24 hours in advance if you can. An unexcused absence will lower your final grade by a half a grade. For example, two unexcused absences will lower an A to a B.
+Attendance is mandatory. If you think you will be absent, please contact me as soon as possible, at least 24 hours in advance if you can. CCNY policy allows two absences—excused or unexcused. At three absences, you will fail the course. An unexcused absence will lower your final grade by a half a grade. For example, two unexcused absences will lower an A to a B.
 
 ### Lateness
-You are expected to arrive to class on time and be ready to start at 9:00am ET. An unexcused lateness of 10 minutes or more is equivalent to 1/2 of one absence. Two late arrivals will count as one unexcused absence.
-
+You are expected to arrive to class on time and be ready to start at 9:00am ET. An unexcused lateness of 10 minutes or more is equivalent to 1/2 of one absence. Two unexcused late arrivals will count as one unexcused absence.
 
 ## Assignments Overview
 All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
@@ -189,6 +188,8 @@ Your final grade will be based on participation and attendance and the completio
 - 10% Midsemester exercise (5% exercise, 5% presentation)
 - 20% Final project (5% proposal, 5% prototype, 5% project, and 5% presentation)
 
+This class uses the standard A through F letter grading system, and grades will be determined according to this scale: A 100-94, A- 93.9-90, B+ 89.9-87, B 86.9-84, B- 83.9-80, C+ 79.9-77, C 76.9-74, C- 73.9-70, D+ 69.9-67, D 66.9-64, D- 63.9-60, and F 59.9 and below
+
 ## Statements
 ### Academic Integrity
 In keeping with CCNY’s statement on [Academic Integrity](https://www.ccny.cuny.edu/about/integrity), this course abides by the [CUNY Policy on Academic Policy](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/), which states that “plagiarism is the act of presenting another person’s ideas, research or writings as your own.” Here are some examples of plagiarism from the policy:
@@ -214,6 +215,9 @@ In addition to the AccessAbility Center, CCNY also provides the following [Healt
 
 ### Benny's Pantry
 Students who find themselves experiencing difficulties obtaining food every day or who lack a stable and safe place to live are urged to come to [Benny’s Pantry](https://www.ccny.cuny.edu/bennysfoodpantry) for assistance. Benny’s Pantry is located on the ground floor of the North Academic Center (NAC) and is open to anyone within the CUNY community (students, staff, and faculty) in need of support. The pantry is open from 10am to 6pm and is self-serve. Additional emergency support for financial, health, and housing needs are also available through Benny’s. Please contact Dee Dee Mozeleski at [dmozeleski@ccny.CUNY.edu](mailto:dmozeleski@ccny.CUNY.edu) or Charles Ramirez at [cramirez@ccny.CUNY.edu](cramirez@ccny.CUNY.edu) for additional details. 
+
+### Campus Safety
+For nformation on emergency response and campus security, please visit the Office of Public Safety and Security at [https://www.ccny.cuny.edu/safety](https://www.ccny.cuny.edu/safety).
 
 ----
 Some of the language on this syllabus is drawn fom syllabi generously shared online. Thank you to [Stalgia Grigg](https://stalgiag.github.io/code-for-arts-f21/), [Jasmine Soltani](https://github.com/jfunky/ccny-programming-sp2020), [Mimi Onuoha](https://itp.nyu.edu/classes/cc-f19/syllabus/#Support), [Golan Levin](http://cmuems.com/2018/60212f/syllabus/academic-integrity/), [Dan Shiffman](https://docs.google.com/document/d/18UjdDrXUMKgNjIiee9d2WeyV1Z8V1RfBEElkzWKXvbk/edit#), and the many [NYU ITP ICM professors](https://github.com/ITPNYU/ICM-2021-Code)!
