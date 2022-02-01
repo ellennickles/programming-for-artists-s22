@@ -95,7 +95,7 @@ This class is highly participatory, and there are many ways to demonstrate your 
 Attendance is mandatory. If you think you will be absent, please contact me as soon as possible, at least 24 hours in advance if you can. CCNY policy allows two absences—excused or unexcused. At three absences, you will fail the course. An unexcused absence will lower your final grade by a half a grade. For example, two unexcused absences will lower an A to a B.
 
 ### Lateness
-You are expected to arrive to class on time and be ready to start at 9:00am ET. An unexcused lateness of 10 minutes or more is equivalent to 1/2 of one absence. Two unexcused late arrivals will count as one unexcused absence.
+You are expected to arrive to class on time and be ready to start at 9:00am ET. An unexcused lateness of 15 minutes or more is equivalent to 1/2 of one absence. Two unexcused late arrivals will count as one unexcused absence.
 
 ## Assignments Overview
 All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
