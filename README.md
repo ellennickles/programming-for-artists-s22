@@ -11,7 +11,6 @@ ART 39552 • Electronic Design & Multimedia Program (EDM) • The City College 
 | Assignments   | [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md) |
 | Supplemental Materials   | [Resources and Inspiration](https://github.com/ellennickles/programming-for-artists-s22/blob/main/resources-inspiration.md) |  
 
-
 ## Contents
 - [Description](https://github.com/ellennickles/programming-for-artists-s22#description)
 - [Learning Objectives](https://github.com/ellennickles/programming-for-artists-s22#learning-objectives)
@@ -53,8 +52,7 @@ During class, we will use [our Miro board](https://tinyurl.com/pfa-s22-miro), a 
 Outside of class:
 - You are expected to check your CUNY email frequently for course-related information, including but not limited to general announcements and updates. Please feel free to email me with any questions or concerns any time.
 - Student Hours will take place in Zoom. [Sign up here](https://calendly.com/ellennickles)
-- Expect to submit your assignments using a Google Form.
-- I'm still exploring options for how to best provide assignment feedback. TBD!
+- Expect to submit your assignments using a Google Form, and expect to receive assignment grades and feedback on a Google document shared only with you.
 - Our course site is hosted here on GitHub.
 
 When in doubt, it’s ALWAYS better to contact me sooner rather than later about attendance, assignments, or anything else on your mind.
@@ -126,7 +124,7 @@ There is no requirement to use a particular aspect of programming. Focus on an i
 ## Grading
 Assignments will be evaluated according to the following criteria. You will never be penalized for submitting non-working code projects as long as you still submit what you have and document a solid degree of effort to problem solve. Such efforts might include trying different techniques after checking the p5 Reference, looking at examples, searching online, asking someone, and/or coming to Student Hours. 
 
-At the time of this writing, I'm exploring two different options to provide you with feedback: either via CCNY email or an individually-shared, private Google document. TBD!
+I will send your assignment grades and feedback on a Google document shared only with you.
 
 Unless otherwise noted, **late assignments** will be accepted up to one (1) week late.
 
