@@ -57,4 +57,4 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Coding Train Videos 1.1-1.6](https://thecodingtrain.com/beginners/p5js/) about p5, the web editor, drawing with p5, errors in the console, and code comments ~1hr 20min
 - PRACTICE & CREATE 
     - [Assignment form](https://forms.gle/FvU6dpkG977CTQh76)
-    - [Assignment responses](https://docs.google.com/spreadsheets/d/1VBt-T-23LGFg6ccg8_fGfIj4D8ghlgOo4zlVJNl4at4/edit#gid=899614326) (Citymail login required)
+    - [Assignment responses](https://docs.google.com/spreadsheets/d/1VBt-T-23LGFg6ccg8_fGfIj4D8ghlgOo4zlVJNl4at4/edit?usp=sharing) (Citymail login required)
