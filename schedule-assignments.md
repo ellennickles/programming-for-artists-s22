@@ -53,7 +53,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - SET UP 
     - If you haven't already, please complete [this survey](https://forms.gle/svuJPA56HJqCjEU57) to help me get to know you better.
     - Create a [p5 web editor](https://editor.p5js.org/) account.
-- WATCH (BEFORE ASSIGNMENT)
+- WATCH (BEFORE EXERCISES)
     - [Coding Train Videos 1.1-1.6](https://thecodingtrain.com/beginners/p5js/) about p5, the web editor, drawing with p5, errors in the console, and code comments ~1hr 20min
 - PRACTICE & CREATE 
     - [Complete and submit your assignment here](https://forms.gle/FvU6dpkG977CTQh76)
