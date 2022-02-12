@@ -17,9 +17,9 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 22 | Week 7 | Many Objects from Classes | 
 | Mar 29 | Week 8 | Midsemester Exercise Presentations| 
 | Apr 5 | Week 9 | The DOM: HTML and CSS | 
-| Apr 12 | Week 10 | Typography | 
+| Apr 12 | Week 10 | Images and Sound | 
 | Apr 19 | No class | Spring Recess | 
-| Apr 26 | Week 11 | Images and Sound | 
+| Apr 26 | Week 11 | Typography | 
 | May 3 | Week 12 | Camera and Pose Detection | 
 | May 10 | Week 13 | Final Project Proposals |
 | May 17 | Week 14 | Final Project User Testing | 
