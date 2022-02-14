@@ -9,7 +9,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | :--- | :--- | :---|
 | Feb 1 | Week 1 | [Introduction and Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-1--week-1--introduction-and-drawing) |
 | Feb 8 | No class | Classes follow a Friday schedule | 
-| Feb 15 | Week 2 | More Drawing | 
+| Feb 15 | Week 2 | [More Drawing]() | 
 | Feb 22 | Week 3 | Variables and Objects | 
 | Mar 1 | Week 4 | Conditionals and Boolean Variables | 
 | Mar 8 | Week 5 | Arrays / Loops | 
@@ -58,3 +58,36 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - PRACTICE & CREATE 
     - [Complete and submit your assignment here](https://forms.gle/FvU6dpkG977CTQh76)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1VBt-T-23LGFg6ccg8_fGfIj4D8ghlgOo4zlVJNl4at4/edit?usp=sharing) (Citymail login required)
+
+## Feb 15 • Week 2 • More Drawing
+### Key questions
+- What are some additional functions for drawing on the Canvas?
+- How can we rotate shapes?
+- What are some additional ways to work with color in our sketches?
+
+### In class
+- Share our homework
+- Arcs and curves
+- Shape modes
+- Transformations `translate()`, `rotate()`, `push()`, and `pop()` 
+- Color modes: RGB vs HSB
+- HSB color palettes
+- Color transparency (alpha)
+
+### Resources and examples (some link TBA)
+- [Miro](https://tinyurl.com/pfa-s22-miro)
+- [p5 Learn: Arcs and Curves](https://p5js.org/learn/curves.html)
+- Allison Parrish's [`quadraticVertex()`](https://editor.p5js.org/allison.parrish/sketches/HysPl9FT7) and [`bezier()`](https://editor.p5js.org/allison.parrish/sketches/H1QQ3Nt67) demos 
+- Programming Design Systems [curve animations](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l) (scroll down) 
+- Working with [`rectMode()`]() 
+- [Rotated squares]() 
+- [RGB](https://editor.p5js.org/enickles/full/uB9PBM-w4) vs [HSB](https://editor.p5js.org/enickles/full/yHAvJuEuB) vs [HSL](https://editor.p5js.org/enickles/full/vCioKqgQg) color mixers
+- [HSB color palette]() 
+- Color transparency (alpha): [RGB]() vs [HSB]()
+
+### Assignment due Monday • Feb 21 • 11:59pm
+- PRACTICE & CREATE 
+    - [Complete and submit your assignment here](https://forms.gle/66vdpBxdu1qWC3Cr8)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1LLfA2Gw9Av3-GISr-R6MUjnOsoJYazPhMeJsWw3SjnU/edit?usp=sharing)
+- WATCH
+    - [Coding Train Videos 2.1-2.5](https://thecodingtrain.com/beginners/p5js/) about variables, `random()`, and `map()` ~1hr
