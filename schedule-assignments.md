@@ -74,7 +74,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - HSB color palettes
 - Color transparency (alpha)
 
-### Resources and examples (some link TBA)
+### Resources and examples
 - [Miro](https://tinyurl.com/pfa-s22-miro)
 - [p5 Learn: Arcs and Curves](https://p5js.org/learn/curves.html)
 - Allison Parrish's [`quadraticVertex()`](https://editor.p5js.org/allison.parrish/sketches/HysPl9FT7) and [`bezier()`](https://editor.p5js.org/allison.parrish/sketches/H1QQ3Nt67) demos 
