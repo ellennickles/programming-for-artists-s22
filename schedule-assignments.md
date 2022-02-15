@@ -79,11 +79,11 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - [p5 Learn: Arcs and Curves](https://p5js.org/learn/curves.html)
 - Allison Parrish's [`quadraticVertex()`](https://editor.p5js.org/allison.parrish/sketches/HysPl9FT7) and [`bezier()`](https://editor.p5js.org/allison.parrish/sketches/H1QQ3Nt67) demos 
 - Programming Design Systems [curve animations](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l) (scroll down) 
-- Working with [`rectMode()`]() 
-- [Rotated squares]() 
-- [RGB](https://editor.p5js.org/enickles/full/uB9PBM-w4) vs [HSB](https://editor.p5js.org/enickles/full/yHAvJuEuB) vs [HSL](https://editor.p5js.org/enickles/full/vCioKqgQg) color mixers
-- [HSB color palette]() 
-- Color transparency (alpha): [RGB]() vs [HSB]()
+- Working with [`rectMode()`](https://editor.p5js.org/enickles/sketches/hn5Q-C2Ia) 
+- [Rotated squares](https://editor.p5js.org/enickles/sketches/Eug2uFVgl) 
+- [RGB](https://editor.p5js.org/enickles/full/uB9PBM-w4) vs [HSB](https://editor.p5js.org/enickles/full/yHAvJuEuB) color mixers
+- [HSB color palettes](https://editor.p5js.org/enickles/sketches/G6vYjZtFg) 
+- Color transparency (alpha): [RGB](https://editor.p5js.org/enickles/sketches/u5BhsGJkF) vs [HSB](https://editor.p5js.org/enickles/sketches/UZSBXe7fL)
 
 ### Assignment due Monday • Feb 21 • 11:59pm
 - PRACTICE & CREATE 
