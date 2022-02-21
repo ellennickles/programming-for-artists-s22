@@ -122,7 +122,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Coding Train Videos 16.1-16.2](https://thecodingtrain.com/Tutorials/) about keywords let, var, and const ~20min
 - PRACTICE & CREATE
     - [Complete and submit your assignment here](https://forms.gle/PQVFewjwtPFJSapf6)
-    - [See assignment responses here]()
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1lM55NauUCH7DbjImgE8y9v6Sm_puHx1ZELkMs8yPbDs/edit?resourcekey#gid=744350889)
 - WATCH & READ
     - [Coding Train Videos 3.1-3.4](https://thecodingtrain.com/beginners/p5js/) on conditional statements and Boolean variables ~1hr
     - [p5 Learn: Interactivity](https://p5js.org/learn/interactivity.html) on mouse and keyboard data and events
