@@ -10,7 +10,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 1 | Week 1 | [Introduction and Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-1--week-1--introduction-and-drawing) |
 | Feb 8 | No class | Classes follow a Friday schedule | 
 | Feb 15 | Week 2 | [More Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-15--week-2--more-drawing) | 
-| Feb 22 | Week 3 | Variables and Objects | 
+| Feb 22 | Week 3 | [Variables and Objects]() | 
 | Mar 1 | Week 4 | Conditionals and Boolean Variables | 
 | Mar 8 | Week 5 | Arrays / Loops | 
 | Mar 15 | Week 6 | More with Arrays / Custom Functions | 
@@ -91,3 +91,38 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1LLfA2Gw9Av3-GISr-R6MUjnOsoJYazPhMeJsWw3SjnU/edit?usp=sharing)
 - WATCH
     - [Coding Train Videos 2.1-2.5](https://thecodingtrain.com/beginners/p5js/) about variables, `random()`, and `map()` ~1hr
+
+## Feb 22 • Week 3 • Variables and Objects
+### Key questions
+- What are variables?
+- How can we use them to create relationships between elements in our sketches?
+- How can we use them to animate our drawings?
+
+### In class
+- Custom variables 
+- Reusing variables
+- Animation with variables
+- Introduction to object literals 
+- p5 system variables
+- `random()` and `map()`
+- Share our homework
+
+### Resources and examples (links TBA)
+- [Miro](https://tinyurl.com/pfa-s22-miro)
+- [Reusing variables]()
+- [Scope: global and local variables]()
+- [Object literal]()
+- [Moving ball objects with direction and speed variables]() 
+- [Responsive rect]()
+- [Portrait animated]() using `random()` and `map()`
+
+### Assignment due Monday • Feb 28 • 11:59pm
+- WATCH (OPTIONAL)
+    - [Coding Train Video 9.1-9.3](https://thecodingtrain.com/Tutorials/) on tranformations using `translate()`, `rotate()`, `push()` and `pop()` ~40min
+    - [Coding Train Videos 16.1-16.2](https://thecodingtrain.com/Tutorials/) about keywords let, var, and const ~20min
+- PRACTICE & CREATE
+    - [Complete and submit your assignment here](https://forms.gle/PQVFewjwtPFJSapf6)
+    - [See assignment responses here]()
+- WATCH & READ
+    - [Coding Train Videos 3.1-3.4](https://thecodingtrain.com/beginners/p5js/) on conditional statements and Boolean variables ~1hr
+    - [p5 Learn: Interactivity](https://p5js.org/learn/interactivity.html) on mouse and keyboard data and events
