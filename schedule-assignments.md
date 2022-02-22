@@ -109,12 +109,12 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 
 ### Resources and examples (links TBA)
 - [Miro](https://tinyurl.com/pfa-s22-miro)
-- [Reusing variables]()
-- [Scope: global and local variables]()
-- [Object literal]()
-- [Moving ball objects with direction and speed variables]() 
-- [Responsive rect]()
-- [Portrait animated]() using `random()` and `map()`
+- [Reusing variables](https://editor.p5js.org/enickles/sketches/G3WTFLCS0)
+- [Scope: local and global variables](https://editor.p5js.org/enickles/sketches/7w5snqAsv)
+- [Object literal](https://editor.p5js.org/enickles/sketches/-SMzwBogH)
+- [Moving the ball with direction and speed variables](https://editor.p5js.org/enickles/sketches/1lNnotsKf) 
+- [Responsive rect](https://editor.p5js.org/enickles/sketches/PCt9XzUmt)
+- [Portrait animated](https://editor.p5js.org/enickles/sketches/8D354fRsJ) using `random()` and `map()`
 
 ### Assignment due Monday • Feb 28 • 11:59pm
 - WATCH (OPTIONAL)
