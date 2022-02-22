@@ -107,7 +107,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - `random()` and `map()`
 - Share our homework
 
-### Resources and examples (links TBA)
+### Resources and examples
 - [Miro](https://tinyurl.com/pfa-s22-miro)
 - [Reusing variables](https://editor.p5js.org/enickles/sketches/G3WTFLCS0)
 - [Scope: local and global variables](https://editor.p5js.org/enickles/sketches/7w5snqAsv)
