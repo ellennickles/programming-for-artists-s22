@@ -11,7 +11,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 8 | No class | Classes follow a Friday schedule | 
 | Feb 15 | Week 2 | [More Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-15--week-2--more-drawing) | 
 | Feb 22 | Week 3 | [Variables and Objects](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-22--week-3--variables-and-objects) | 
-| Mar 1 | Week 4 | Conditionals and Boolean Variables | 
+| Mar 1 | Week 4 | [Conditionals and Boolean Variables]() | 
 | Mar 8 | Week 5 | Arrays / Loops | 
 | Mar 15 | Week 6 | More with Arrays / Custom Functions | 
 | Mar 22 | Week 7 | Many Objects from Classes | 
@@ -126,3 +126,35 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - WATCH & READ
     - [Coding Train Videos 3.1-3.4](https://thecodingtrain.com/beginners/p5js/) on conditional statements and Boolean variables ~1hr
     - [p5 Learn: Interactivity](https://p5js.org/learn/interactivity.html) on mouse and keyboard data and events
+
+
+## Mar 1 • Week 4 • Conditionals and Boolean Variables
+### Key questions
+- What are some ways to control the sequence of events in our programs?
+- How can we interact with our p5 sketches even more?
+
+### In class
+- Share our homework
+- Introduction to conditional statements
+    - with relational expressions
+    - with Boolean variables
+- Combining expressions
+
+### Resources and examples (links TBA)
+- [Miro](https://tinyurl.com/pfa-s22-miro)
+- [Introduction to conditionals]()
+- [Hover over 3 rows]()
+- [Boolean variable with if statements]()
+- [Toggle the switch]()
+- [Resetting ball object]()
+- [Bouncing ball object]()
+
+### Assignment due Monday • Mar 7 • 11:59pm
+- PRACTICE & CREATE
+    - [Complete and submit your assignment here](https://forms.gle/MA5Trq5WRtJRP1zz5)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1kF6NpFxPq2unNgbUxYIPZAkh-Oi1qU61PWs0GiUN9ag/edit?resourcekey#gid=1904386461)
+- WATCH
+    - [Coding Train Videos 4.1-4.2](https://thecodingtrain.com/beginners/p5js/) about loops ~24min
+    - [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these tips are universal for all programming languages!) ~15min
+- READ 
+    - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
