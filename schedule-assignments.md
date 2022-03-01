@@ -142,12 +142,11 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 
 ### Resources and examples (links TBA)
 - [Miro](https://tinyurl.com/pfa-s22-miro)
-- [Introduction to conditionals]()
-- [Hover over 3 rows]()
-- [Boolean variable with if statements]()
-- [Toggle the switch]()
-- [Resetting ball object]()
-- [Bouncing ball object]()
+- [Introduction to conditionals](https://editor.p5js.org/enickles/sketches/bJjtmRyJU)
+- [Hover over 3 rows](https://editor.p5js.org/enickles/sketches/5TNK5C67k)
+- [Boolean variables with if statements](https://editor.p5js.org/enickles/sketches/P7mUQpYLo)
+- [Toggle the switch](https://editor.p5js.org/enickles/sketches/L2MqCAvNe)
+- [Resetting ball object](https://editor.p5js.org/enickles/sketches/YtyYLo7mC)
 
 ### Assignment due Monday • Mar 7 • 11:59pm
 - PRACTICE & CREATE
@@ -157,4 +156,5 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Coding Train Videos 4.1-4.2](https://thecodingtrain.com/beginners/p5js/) about loops ~24min
     - [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these tips are universal for all programming languages!) ~15min
 - READ 
+    - [Interaction: Contingent behavior with `if`](https://creative-coding.decontextualize.com/interaction/) by Allison Parrish (scroll down)
     - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
