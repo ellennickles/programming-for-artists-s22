@@ -140,7 +140,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - with Boolean variables
 - Combining expressions
 
-### Resources and examples (links TBA)
+### Resources and examples
 - [Miro](https://tinyurl.com/pfa-s22-miro)
 - [Introduction to conditionals](https://editor.p5js.org/enickles/sketches/bJjtmRyJU)
 - [Hover over 3 rows](https://editor.p5js.org/enickles/sketches/5TNK5C67k)
