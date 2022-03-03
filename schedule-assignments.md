@@ -149,6 +149,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - [Resetting ball object](https://editor.p5js.org/enickles/sketches/YtyYLo7mC)
 
 ### Assignment due Monday • Mar 7 • 11:59pm
+- READ (BEFORE EXERCISES)
+    - Tutorial: [Interaction](https://creative-coding.decontextualize.com/interaction/) by Allison Parrish (and it's actually interactive!)
 - PRACTICE & CREATE
     - [Complete and submit your assignment here](https://forms.gle/MA5Trq5WRtJRP1zz5)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1kF6NpFxPq2unNgbUxYIPZAkh-Oi1qU61PWs0GiUN9ag/edit?resourcekey#gid=1904386461)
@@ -156,5 +158,5 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Coding Train Videos 4.1-4.2](https://thecodingtrain.com/beginners/p5js/) about loops ~24min
     - [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these tips are universal for all programming languages!) ~15min
 - READ 
-    - [Interaction: Contingent behavior with `if`](https://creative-coding.decontextualize.com/interaction/) by Allison Parrish (scroll down)
+
     - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
