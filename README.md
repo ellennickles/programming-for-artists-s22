@@ -1,7 +1,7 @@
 # Programming for Artists
 ART 39552 • Electronic Design & Multimedia Program (EDM) • The City College of New York (CCNY) • Spring 2022
 
-| General Information |  |
+| Course Information |  |
 | :--- | ----------- |
 | Meeting Time   | Tuesdays 9:00am - 11:50am ET |
 | Location   | Comp Goeth CG122 |
