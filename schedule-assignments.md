@@ -170,7 +170,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Introduction to arrays
 - Share our homework
 - Introduction to for loops
-- Anonymous check-in survey
+- [Anonymous check-in survey](https://forms.gle/ArQzSFiGbXNgDcQXA)
 
 ### Resources and examples (links TBA)
 - [Miro](https://tinyurl.com/pfa-s22-miro)
