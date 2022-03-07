@@ -12,7 +12,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 15 | Week 2 | [More Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-15--week-2--more-drawing) | 
 | Feb 22 | Week 3 | [Variables and Objects](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-22--week-3--variables-and-objects) | 
 | Mar 1 | Week 4 | [Conditionals and Boolean Variables](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-1--week-4--conditionals-and-boolean-variables) | 
-| Mar 8 | Week 5 | Arrays / Loops | 
+| Mar 8 | Week 5 | [Arrays / Loops]() | 
 | Mar 15 | Week 6 | More with Arrays / Custom Functions | 
 | Mar 22 | Week 7 | Many Objects from Classes | 
 | Mar 29 | Week 8 | Midsemester Exercise Presentations| 
@@ -158,5 +158,29 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Coding Train Videos 4.1-4.2](https://thecodingtrain.com/beginners/p5js/) about loops ~24min
     - [A Brief Introduction to Debugging Parts 1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these tips are universal for all programming languages!) ~15min
 - READ 
-
     - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
+
+
+## Mar 8 • Week 5 • Arrays / Loops
+### Key questions
+- How can we start to use arrays to store data?
+- How can we use loops to make our programs do all the work?
+
+### In class
+- Introduction to arrays
+- Share our homework
+- Introduction to for loops
+- Anonymous check-in survey
+
+### Resources and examples (links TBA)
+- [Miro](https://tinyurl.com/pfa-s22-miro)
+- [Anatomy of a for loop]()
+- [Drawing columns with a loop]()
+- [Bouncing ball object]()
+
+### Assignment due Monday • Mar 14 • 11:59pm
+- PRACTICE & CREATE
+    - [Complete and submit your assignment here](https://forms.gle/mCMXSfpJmB6mRGiUA)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1QG8tN6VcoRxWeW4hFxNy799Acwy9PXuSm_nAAy78ZKs/edit?usp=sharing)
+- WATCH
+    - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays ~50 min
