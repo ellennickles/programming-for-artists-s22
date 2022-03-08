@@ -167,8 +167,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - How can we use loops to make our programs do all the work?
 
 ### In class
-- Introduction to arrays
-- Share our homework
+- Review conditional statements
 - Introduction to for loops
 - [Anonymous check-in survey](https://forms.gle/ArQzSFiGbXNgDcQXA)
 
