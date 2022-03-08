@@ -12,8 +12,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 15 | Week 2 | [More Drawing](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-15--week-2--more-drawing) | 
 | Feb 22 | Week 3 | [Variables and Objects](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-22--week-3--variables-and-objects) | 
 | Mar 1 | Week 4 | [Conditionals and Boolean Variables](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-1--week-4--conditionals-and-boolean-variables) | 
-| Mar 8 | Week 5 | [Arrays / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--arrays--loops) | 
-| Mar 15 | Week 6 | More with Arrays / Custom Functions | 
+| Mar 8 | Week 5 | [Review / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--review--loops) | 
+| Mar 15 | Week 6 | Arrays / Custom Functions | 
 | Mar 22 | Week 7 | Many Objects from Classes | 
 | Mar 29 | Week 8 | Midsemester Exercise Presentations| 
 | Apr 5 | Week 9 | The DOM: HTML and CSS | 
@@ -161,7 +161,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - p5 Tutorial: [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
 
 
-## Mar 8 • Week 5 • Arrays / Loops
+## Mar 8 • Week 5 • Review / Loops
 ### Key questions
 - How can we start to use arrays to store data?
 - How can we use loops to make our programs do all the work?
