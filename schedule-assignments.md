@@ -172,11 +172,12 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Introduction to for loops
 - [Anonymous check-in survey](https://forms.gle/ArQzSFiGbXNgDcQXA)
 
-### Resources and examples (links TBA)
+### Resources and examples
 - [Miro](https://tinyurl.com/pfa-s22-miro)
-- [Anatomy of a for loop]()
-- [Drawing columns with a loop]()
-- [Bouncing ball object]()
+- [Hover button exercise with pseudocode](https://editor.p5js.org/enickles/sketches/L2gb8bI6y)
+- [Anatomy of a for loop](https://editor.p5js.org/enickles/sketches/330lolKT-)
+- [Drawing columns with a loop](https://editor.p5js.org/enickles/sketches/tzHGnVqNo)
+- [Bouncing ball object](https://editor.p5js.org/enickles/sketches/WuNHW1CZR)
 
 ### Assignment due Monday • Mar 14 • 11:59pm
 - PRACTICE & CREATE
