@@ -126,12 +126,12 @@ Assignments will be evaluated according to the following criteria. You will neve
 
 I will send your assignment grades and feedback on a Google document shared only with you.
 
-(Updated) **Late assignments**: You have until May 10, 2022 (Week 13) to submit assignments for credit. This update is intended to help students who need extra time to practice the foundational programming concepts upon which we will continue to build this semester. If you turn in an assignment late, please let me know as I will not be automatically notified of those submissions. Do not wait until the last minute, May 9, to complete the weekly assignments. It is in your best interest to keep up with the weekly work in a timely fashion so that you can get the most out of the activities that we do in class together. Weekly assignments will not accepted after May 10.
+(Updated) **Late assignments** will be accepted until May 10, 2022 (Week 13). If you submit an assignment late, please let me know as I will not be automatically notified. It is in your best interest to keep up with the weekly work so that you can get the most out of the activities that we do in class together.
 
 Not submitting an assignment or not properly citing code sources are grounds for receiving a zero (0) on an assignment. For the latter, see the statement below on the Use of Free and Open Source Materials Including Code.
 
 ### Programming Exercises and Projects
-These are worth four (4) points, one (1) point for each of the following (updated):
+These are worth four (5) points, one (1) point for each of the following (updated):
 - **Compliance**
     - Does the assignment address all the questions/prompts and follow the instructions?
 - **Comprehension and effort**
@@ -151,6 +151,8 @@ These are worth four (4) points, one (1) point for each of the following (update
     - Is there evidence that you experimented or played with the possibilities of code to discover inventive outcomes?
     - Are the results distinct from the examples and other projects? 
     - If applicable, does it extend your past work?
+- **Timeliness**
+    - Was the assignment submitted on time?
 
 ### [Midsemester Exercise](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#midsemester-exercise)
 - **Creative exercise**: The creative exercise is worth five (5) points, and the evaluation will follow the above critera for the code.
