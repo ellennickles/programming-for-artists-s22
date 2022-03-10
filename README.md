@@ -96,7 +96,7 @@ Attendance is mandatory. If you think you will be absent, please contact me as s
 You are expected to arrive to class on time and be ready to start at 9:00am ET. An unexcused lateness of 15 minutes or more is equivalent to 1/2 of one absence. Two unexcused late arrivals will count as one unexcused absence.
 
 ## Assignments Overview
-All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
+All assignments will be posted on [Schedule and Assignments](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md), and all are required. Unless otherwise stated, assignments are **due the night before class on Mondays at 11:59pm**, one (1) week after they are assigned. Assignments turned in late will receive partial credit as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
 
 I recommend that you start the assignments as early in the week as possible, soon after each class meeting. Don’t wait until the night before it's due. Learning a programming language takes time to practice.
 
@@ -126,12 +126,12 @@ Assignments will be evaluated according to the following criteria. You will neve
 
 I will send your assignment grades and feedback on a Google document shared only with you.
 
-(Updated) **Late assignments** will be accepted until May 10, 2022 (Week 13). If you submit an assignment late, please let me know as I will not be automatically notified. It is in your best interest to keep up with the weekly work so that you can get the most out of the activities that we do in class together.
+**Late assignments** will be accepted until May 10, 2022 (Week 13). If you submit an assignment late, please let me know as I will not be automatically notified. (Updated)
 
 Not submitting an assignment or not properly citing code sources are grounds for receiving a zero (0) on an assignment. For the latter, see the statement below on the Use of Free and Open Source Materials Including Code.
 
 ### Programming Exercises and Projects
-These are worth four (5) points, one (1) point for each of the following (updated):
+These are worth four (5) points, one (1) point for each of the following:
 - **Compliance**
     - Does the assignment address all the questions/prompts and follow the instructions?
 - **Comprehension and effort**
