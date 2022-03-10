@@ -163,7 +163,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 
 ## Mar 8 • Week 5 • Review Conditionals / Loops
 ### Key questions
-- How can we start to use arrays to store data?
+- What is pseudocoding and how can we use this techniquue to help us plan and organize our code?
 - How can we use loops to make our programs do all the work?
 
 ### In class
