@@ -13,14 +13,14 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 22 | Week 3 | [Variables and Objects](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-22--week-3--variables-and-objects) | 
 | Mar 1 | Week 4 | [Conditionals and Boolean Variables](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-1--week-4--conditionals-and-boolean-variables) | 
 | Mar 8 | Week 5 | [Review Conditionals / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--review-conditionals--loops) | 
-| Mar 15 | Week 6 | Arrays / Custom Functions | 
-| Mar 22 | Week 7 | Many Objects from Classes | 
-| Mar 29 | Week 8 | Midsemester Exercise Presentations| 
-| Apr 5 | Week 9 | The DOM: HTML and CSS | 
-| Apr 12 | Week 10 | Images and Sound | 
+| Mar 15 | Week 6 | [Review]() | 
+| Mar 22 | Week 7 | Custom Functions | 
+| Mar 29 | Week 8 | Midsemester Exercise Presentations | 
+| Apr 5 | Week 9 | Many Objects from Classes | 
+| Apr 12 | Week 10 | The DOM: HTML and CSS | 
 | Apr 19 | No class | Spring Recess | 
-| Apr 26 | Week 11 | Typography | 
-| May 3 | Week 12 | Camera and Pose Detection | 
+| Apr 26 | Week 11 | TBD | 
+| May 3 | Week 12 | TBD | 
 | May 10 | Week 13 | Final Project Proposals |
 | May 17 | Week 14 | Final Project User Testing | 
 | May 24 | Week 15 | Final Project Presentations | 
@@ -184,3 +184,44 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1QG8tN6VcoRxWeW4hFxNy799Acwy9PXuSm_nAAy78ZKs/edit?usp=sharing)
 - WATCH
     - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays ~50 min
+
+
+## Mar 15 • Week 6 • Arrays / Review
+### Key questions
+- What are arrays and how can we start to use them to store data?
+- Review: 
+    - How can we create our own variables to reuse and easily update values in our sketches?
+    - How does the `random()` function work?
+    - How can we check for conditions  and control the flow of our programs?
+    - How do loops work and what can we create if we nest one inside of another?
+- How can we introduce unpredictability into our compositions?
+
+### In class
+- Discuss updated schedule
+- Introduce arrays
+- Review variables
+- Review `random()` and conditionals
+- Review for loops
+- Introduce nested loops
+- Discuss midsemester exercise
+
+### Resources and examples
+- [Miro](https://tinyurl.com/pfa-s22-miro)
+- [Random text generator (part 1)](https://editor.p5js.org/enickles/sketches/tJGFGmeDs)
+- [Review variables](https://editor.p5js.org/enickles/sketches/JibDqrID2)
+- [Review `random()`](https://editor.p5js.org/enickles/sketches/AB9HZp22b)
+- [`random()` with conditional statements](https://editor.p5js.org/enickles/sketches/T3NupXVMU)
+- [10 PRINT-inspired pattern](https://editor.p5js.org/enickles/sketches/LQCbe_Kwf)
+- [Grid from nested loops](https://editor.p5js.org/enickles/sketches/jtdSyFnMP)
+
+### Assignment due Monday • Mar 21 • 11:59pm
+- WATCH (BEFORE EXERCISES)
+    - Review any of the previously-assigned Coding Train videos on variables, `random()`, conditional statements and loops.
+    - [Coding Train Coding Challenge #76: 10PRINT in p5.js](https://www.youtube.com/watch?v=bEyTZ5ZZxZs) ~9min
+- PRACTICE & CREATE
+    - [Complete and submit your assignment here](https://forms.gle/trFxyXTXmUoMGcYV9)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1dpgtYzUtQ4tzpLcDegvC0CZKJvbtuoUCcBG4DT2hXiw/edit?usp=sharing)
+    - Complete and submit any past exercises using the assignment forms above
+- WATCH (BEFORE NEXT WEEK)
+    - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays ~50 min
+
