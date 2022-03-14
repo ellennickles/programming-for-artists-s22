@@ -13,7 +13,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Feb 22 | Week 3 | [Variables and Objects](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#feb-22--week-3--variables-and-objects) | 
 | Mar 1 | Week 4 | [Conditionals and Boolean Variables](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-1--week-4--conditionals-and-boolean-variables) | 
 | Mar 8 | Week 5 | [Review Conditionals / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--review-conditionals--loops) | 
-| Mar 15 | Week 6 | [Review]() | 
+| Mar 15 | Week 6 | [Arrays / Review](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-15--week-6--arrays--review) | 
 | Mar 22 | Week 7 | Custom Functions | 
 | Mar 29 | Week 8 | Midsemester Exercise Presentations | 
 | Apr 5 | Week 9 | Many Objects from Classes | 
