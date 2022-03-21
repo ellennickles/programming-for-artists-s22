@@ -257,6 +257,6 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Interactive Star](https://editor.p5js.org/enickles/sketches/VEV8oKxEn)
 
 ### Assignment due Monday • Mar 28 • 11:59pm
-- PRACTICE & CREATE (Midsemester Creative Exercise)
+- PRACTICE & CREATE (Midsemester Exercise)
     - [Complete and submit your assignment here](https://forms.gle/HsF24RByD3YGkw4x6)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1rGEoPh_ZPajRIWNy5lTN7mRZC0oRSbu1Qz03bZkawlc/edit?resourcekey#gid=881850139)
