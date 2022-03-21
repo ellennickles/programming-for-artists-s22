@@ -225,3 +225,38 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - WATCH (BEFORE NEXT WEEK)
     - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays ~50 min
 
+
+## Mar 22 • Week 7 • More with Arrays / Custom Functions
+### Key questions
+- What else can we do with arrays?
+- How can we use a for loop with an array?
+- How can we write our own functions?
+
+### In class
+- More with arrays
+    - Index positions
+    - Update our random text generator
+    - Using a loop to iterate through array values
+- Share our homework
+- Introduction to functions
+    - Writing functions
+    - Calling them with and without arguments
+- Discuss Midsemester Exercise and examples
+
+### Resources and examples
+- p5 demos:
+    - [Random text generator updated](https://editor.p5js.org/enickles/sketches/FHldYL3UD)
+    - [Iterating through array values](https://editor.p5js.org/enickles/sketches/BYKhEcPp6)
+    - [Refactored portrait](https://editor.p5js.org/enickles/sketches/czXfxupad)
+    - More function examples: [Part 1](https://editor.p5js.org/MOQN/sketches/YSWaCDB6f), [Part 2](https://editor.p5js.org/MOQN/sketches/vY0s-mh7h), [Part 3](https://editor.p5js.org/MOQN/sketches/72p8Dv1a5), [Part 4](https://editor.p5js.org/MOQN/sketches/Lzq_T8r4g), [Part 5](https://editor.p5js.org/MOQN/sketches/cOVHTX1QG)
+- Midsemester Creative Exercise examples:
+    - [Doggos Random](https://editor.p5js.org/enickles/sketches/jHMY2FRwv)
+    - [Flower Functions](https://editor.p5js.org/enickles/sketches/Lur_1jm3y)
+    - [Interactive Flower](https://editor.p5js.org/enickles/sketches/TEJj_NV2F)
+    - [Creative Robot](https://editor.p5js.org/enickles/sketches/Wwu4wgA-v)
+    - [Interactive Star](https://editor.p5js.org/enickles/sketches/VEV8oKxEn)
+
+### Assignment due Monday • Mar 28 • 11:59pm
+- PRACTICE & CREATE (Midsemester Creative Exercise)
+    - [Complete and submit your assignment here](https://forms.gle/HsF24RByD3YGkw4x6)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1rGEoPh_ZPajRIWNy5lTN7mRZC0oRSbu1Qz03bZkawlc/edit?resourcekey#gid=881850139)
