@@ -22,7 +22,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 26 | Week 11 | TBD | 
 | May 3 | Week 12 | TBD | 
 | May 10 | Week 13 | Final Project Proposals |
-| May 17 | Week 14 | Final Project User Testing | 
+| May 17 | Week 14 | Final Project Studio | 
 | May 24 | Week 15 | Final Project Presentations | 
 
 
@@ -245,7 +245,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 
 ### Resources and examples
 - p5 demos:
-    - [Random text generator updated](https://editor.p5js.org/enickles/sketches/FHldYL3UD)
+    - [Random text generator updated (font uploaded)](https://editor.p5js.org/enickles/sketches/FHldYL3UD)
+    - [Random text generator updated (font linked)](https://editor.p5js.org/enickles/sketches/hLXdU22rW) (check the `<head>` in index.html page for the Google link)
     - [Iterating through array values](https://editor.p5js.org/enickles/sketches/BYKhEcPp6)
     - [Refactored portrait](https://editor.p5js.org/enickles/sketches/czXfxupad)
     - More function examples: [Part 1](https://editor.p5js.org/MOQN/sketches/YSWaCDB6f), [Part 2](https://editor.p5js.org/MOQN/sketches/vY0s-mh7h), [Part 3](https://editor.p5js.org/MOQN/sketches/72p8Dv1a5), [Part 4](https://editor.p5js.org/MOQN/sketches/Lzq_T8r4g), [Part 5](https://editor.p5js.org/MOQN/sketches/cOVHTX1QG)
