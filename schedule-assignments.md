@@ -15,7 +15,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 8 | Week 5 | [Review Conditionals / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--review-conditionals--loops) | 
 | Mar 15 | Week 6 | [Arrays / Review](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-15--week-6--arrays--review) | 
 | Mar 22 | Week 7 | [More Arrays / Custom Functions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-22--week-7--more-with-arrays--custom-functions) | 
-| Mar 29 | Week 8 | Midsemester Exercise Presentations | 
+| Mar 29 | Week 8 | [Midsemester Exercise Presentations]() | 
 | Apr 5 | Week 9 | Many Objects from Classes | 
 | Apr 12 | Week 10 | The DOM: HTML and CSS | 
 | Apr 19 | No class | Spring Recess | 
@@ -183,7 +183,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Complete and submit your assignment here](https://forms.gle/mCMXSfpJmB6mRGiUA)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1QG8tN6VcoRxWeW4hFxNy799Acwy9PXuSm_nAAy78ZKs/edit?usp=sharing)
 - WATCH
-    - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays ~50 min
+    - [Coding Train Videos 5.1-5.2](https://thecodingtrain.com/beginners/p5js/) about functions and [Videos 7.1-7.2](https://thecodingtrain.com/beginners/p5js/) about arrays and loops ~50 min
 
 
 ## Mar 15 • Week 6 • Arrays / Review
@@ -261,3 +261,24 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - PRACTICE & CREATE (Midsemester Exercise)
     - [Complete and submit your assignment here](https://forms.gle/HsF24RByD3YGkw4x6)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1rGEoPh_ZPajRIWNy5lTN7mRZC0oRSbu1Qz03bZkawlc/edit?resourcekey#gid=881850139)
+
+
+## Mar 29 • Week 8 • Midsemester Exercise Presentations
+### Key questions
+- How can we talk about our projects using the programming concepts and vocabulary from this course?
+- How can we use a loop to iterate through objects in an array?
+
+### In class
+- Share midsemester exercises
+- Using arrays with objects and loops
+- The Great Balloon Race 🎈
+
+### Resources and examples 
+- p5 demo: [The Great Balloon Race](https://editor.p5js.org/enickles/sketches/nOylw9-2U)
+
+### Assignment due Monday • Apr 4 • 11:59pm
+- REVIEW & PRACTICE
+    - [Complete and submit your assignment here](https://forms.gle/HrwnT49gyTAiLiKA9)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1fVbyB7cMBQTlDS6kkxMnYPwSmqiM81PZPA8kZ7EuRLA/edit?usp=sharing)
+- WATCH
+    - [Coding Train Videos 6.2 - 6.3, 7.1-7.2 (review arrays if you need to), and 7.3-7.7](https://thecodingtrain.com/beginners/p5js/) on making many objects with a class (a special function) and [Video 6.4](https://thecodingtrain.com/beginners/p5js/) on organizing your code into separate files ~2hr
