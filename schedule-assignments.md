@@ -15,7 +15,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 8 | Week 5 | [Review Conditionals / Loops](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-8--week-5--review-conditionals--loops) | 
 | Mar 15 | Week 6 | [Arrays / Review](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-15--week-6--arrays--review) | 
 | Mar 22 | Week 7 | [More Arrays / Custom Functions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-22--week-7--more-with-arrays--custom-functions) | 
-| Mar 29 | Week 8 | [Midsemester Exercise Presentations]() | 
+| Mar 29 | Week 8 | [Midsemester Exercise Presentations](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-29--week-8--midsemester-exercise-presentations) | 
 | Apr 5 | Week 9 | Many Objects from Classes | 
 | Apr 12 | Week 10 | The DOM: HTML and CSS | 
 | Apr 19 | No class | Spring Recess | 
