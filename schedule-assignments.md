@@ -274,7 +274,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - The Great Balloon Race 🎈
 
 ### Resources and examples 
-- p5 demo: [The Great Balloon Race](https://editor.p5js.org/enickles/sketches/nOylw9-2U)
+- p5 demo: [The Great Balloon Race](https://editor.p5js.org/enickles/sketches/nOylw9-2U)x
+- Coding Train videos: [What is Perlin Noise?](https://www.youtube.com/watch?v=Qf4dIN99e2w&list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD), a series of 14 videos; for demonstrations on the differences between random() and noise(), start with videos 1.2-1.4 (related [code](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)).
 
 ### Assignment due Monday • Apr 4 • 11:59pm
 - REVIEW & PRACTICE
