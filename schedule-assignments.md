@@ -16,7 +16,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 15 | Week 6 | [Arrays / Review](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-15--week-6--arrays--review) | 
 | Mar 22 | Week 7 | [More Arrays / Custom Functions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-22--week-7--more-with-arrays--custom-functions) | 
 | Mar 29 | Week 8 | [Midsemester Exercise Presentations](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-29--week-8--midsemester-exercise-presentations) | 
-| Apr 5 | Week 9 | Many Objects from Classes | 
+| Apr 5 | Week 9 | [Many Objects from Classes]() | 
 | Apr 12 | Week 10 | The DOM: HTML and CSS | 
 | Apr 19 | No class | Spring Recess | 
 | Apr 26 | Week 11 | TBD | 
@@ -283,3 +283,38 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1fVbyB7cMBQTlDS6kkxMnYPwSmqiM81PZPA8kZ7EuRLA/edit?usp=sharing)
 - WATCH
     - [Coding Train Videos 6.2 - 6.3, 7.1-7.2 (review arrays if you need to), and 7.3-7.7](https://thecodingtrain.com/beginners/p5js/) on making many objects with a class (a special function) and [Video 6.4](https://thecodingtrain.com/beginners/p5js/) on organizing your code into separate files ~2hr
+
+
+## Apr 5 • Week 9 • Many Objects from Classes
+### Key questions
+- How can we create multiple objects from a class?
+- What are ways to interact with objects?
+
+### In class
+- Update our random name generator (again!)
+- Review practice questions
+- Introduction to classes to make objects
+- Using classes (and objects) with arrays and loops
+- Mouse interaction with objects
+- Creative coding examples
+
+### Resources and examples
+- p5 demos:
+    - [Random name generator with function return](https://editor.p5js.org/enickles/sketches/YQv36aGuO)
+    - [1 balloon object](https://editor.p5js.org/enickles/sketches/y2gBbISgo)
+    - [Many balloon objects](https://editor.p5js.org/enickles/sketches/55ZAFKwN-)
+    - [Manually add and auto-remove ring objects](https://editor.p5js.org/enickles/sketches/usSf1yrPG)
+    - [Mouse hover over balls](https://editor.p5js.org/enickles/sketches/80KdcbA14)
+    - [Mouse click zap balls](https://editor.p5js.org/enickles/sketches/80KdcbA14)
+- Possible inspiration: [Arrels by Anna Carreras](https://feralfile.com/artworks/arrels-y0v?fromExhibition=social-codes-pcl) | [uneasy dream by Manolo Gamboa Naon](https://feralfile.com/artworks/uneasy-dream-asj?fromExhibition=social-codes-pcl) | [Infinite Entropy series by Rafaël Rozendaal](https://feralfile.com/exhibitions/infinite-entropy-xhj) | [Cyber Forest by Lilian](https://showcase.p5js.org/#/2021-All/Cyber-Forest/) | [Delicate Boundaries by Chris Sugrue](https://csugrue.com/delicateboundaries/) |  [Keyfleas by Miles Hiroo Peyton](https://vimeo.com/151334392) | [Coding Train Coding Challenge #124: Flocking Simulation](https://www.youtube.com/watch?v=mhjuuHl6qHM) | [boxcard2d](https://www.youtube.com/watch?v=8z2eiV4Js24)
+
+### Assignment due Monday • Apr 11 • 11:59pm
+- 
+- PRACTICE & CREATE
+    - [Complete and submit your assignment here](https://forms.gle/3NMTG55GYED74mcbA)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1Z4LDaPPzw-JcqGyexxv2tCU20jHxnHDel-4kVAaVk9M/edit?resourcekey#gid=809428588)
+ - WATCH
+    - Method 1 • [Coding Train Video 8.1](https://thecodingtrain.com/Tutorials/8-html-css-dom/) on creating HTML elements on a webpage with HTML tags ~13min
+    - Method 2 • [Videos 8.2 and 8.4](https://thecodingtrain.com/Tutorials/8-html-css-dom/) on creating HTML elements with p5 ~20min
+    - [Video 8.5](https://thecodingtrain.com/Tutorials/8-html-css-dom/) on interacting with the DOM using sliders, buttons and text inputs ~13min
+    - (OPTIONAL) [Videos 8.3 and 8.6-8.10](https://thecodingtrain.com/Tutorials/8-html-css-dom/) for more on HTML and CSS with p5 ~1hr 30min
