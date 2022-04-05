@@ -306,8 +306,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Add balloon objects with mouse and auto-remove off canvas](https://editor.p5js.org/enickles/sketches/4UoL_vROp)
     - [Add rings with mouse and auto-remove after fade](https://editor.p5js.org/enickles/sketches/usSf1yrPG)
     - [Mouse hover over balls](https://editor.p5js.org/enickles/sketches/80KdcbA14)
-    - [Mouse click zap balls](https://editor.p5js.org/enickles/sketches/80KdcbA14)
-- Possible inspiration: [Arrels by Anna Carreras](https://feralfile.com/artworks/arrels-y0v?fromExhibition=social-codes-pcl) | [uneasy dream by Manolo Gamboa Naon](https://feralfile.com/artworks/uneasy-dream-asj?fromExhibition=social-codes-pcl) | [Infinite Entropy series by Rafaël Rozendaal](https://feralfile.com/exhibitions/infinite-entropy-xhj) | [Delicate Boundaries by Chris Sugrue](https://csugrue.com/delicateboundaries/) |  [Keyfleas by Miles Hiroo Peyton](https://vimeo.com/151334392) | [Coding Train Coding Challenge #124: Flocking Simulation](https://www.youtube.com/watch?v=mhjuuHl6qHM) | [boxcard2d](https://www.youtube.com/watch?v=8z2eiV4Js24)
+    - [Mouse click zap balls](https://editor.p5js.org/enickles/sketches/KvDM5SIo-)
+- Possible inspiration: [Arrels by Anna Carreras](https://feralfile.com/artworks/arrels-y0v?fromExhibition=social-codes-pcl) | [uneasy dream by Manolo Gamboa Naon](https://feralfile.com/artworks/uneasy-dream-asj?fromExhibition=social-codes-pcl) | [Infinite Entropy series by Rafaël Rozendaal](https://feralfile.com/exhibitions/infinite-entropy-xhj) | [Delicate Boundaries by Chris Sugrue](https://csugrue.com/delicateboundaries/) | [Keyfleas by Miles Hiroo Peyton](https://vimeo.com/151334392) | [Coding Train Coding Challenge #124: Flocking Simulation](https://www.youtube.com/watch?v=mhjuuHl6qHM) | [boxcard2d](https://www.youtube.com/watch?v=8z2eiV4Js24)
 
 ### Assignment due Monday • Apr 11 • 11:59pm
 - PRACTICE & CREATE
