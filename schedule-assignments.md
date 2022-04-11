@@ -17,7 +17,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 22 | Week 7 | [More Arrays / Custom Functions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-22--week-7--more-with-arrays--custom-functions) | 
 | Mar 29 | Week 8 | [Midsemester Exercise Presentations](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-29--week-8--midsemester-exercise-presentations) | 
 | Apr 5 | Week 9 | [Many Objects from Classes](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-5--week-9--many-objects-from-classes) | 
-| Apr 12 | Week 10 | The DOM: HTML and CSS | 
+| Apr 12 | Week 10 | [The DOM: HTML and CSS]() | 
 | Apr 19 | No class | Spring Recess | 
 | Apr 26 | Week 11 | Images and Sound | 
 | May 3 | Week 12 | Typography | 
@@ -318,3 +318,44 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - Method 2 • [Videos 8.2 and 8.4](https://thecodingtrain.com/Tutorials/8-html-css-dom/) on creating HTML elements with p5 ~20min
     - [Video 8.5](https://thecodingtrain.com/Tutorials/8-html-css-dom/) on interacting with the DOM using sliders, buttons and text inputs ~13min
     - (OPTIONAL) [Videos 8.3 and 8.6-8.10](https://thecodingtrain.com/Tutorials/8-html-css-dom/) for more on HTML and CSS with p5 ~1hr 30min
+
+## Apr 12 • Week 10 • The DOM: HTML and CSS
+### Key questions
+- What is  the Document Object Model (DOM) and how does it relate to HTML and CSS?
+- What are ways into include DOM elements into our projects?
+- What are callback functions?
+
+### In class
+- Review any programming concepts from last week
+- Introduction to the Document Object Model (DOM)
+- Adding HTML elements, tags vs. p5 DOM library
+- Styling HTML elements
+- Working with DOM elements/browser controls in p5: buttons, sliders, and text input fields
+
+### Resources and examples
+- MDN Web Docs:
+    - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+    - [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) (a list of all possible tags)
+    - [Intro to CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+- Example websites
+    - [Best Website Ever v1](https://editor.p5js.org/enickles/sketches/IoDeI3t06) (HTML elements added with tags)
+    - [Best Website Ever v2](https://editor.p5js.org/enickles/sketches/z4MQo_dsN) (HTML elments added with JavaScript (p5))
+    - [Best Website Ever v3](https://editor.p5js.org/enickles/sketches/nzg940lOa) (Styling separated into style.css)
+- DOM elements with p5:
+    - [Button updates background](https://editor.p5js.org/enickles/sketches/PTJ99zau1)
+    - [Buttons to add and clear circle](https://editor.p5js.org/enickles/sketches/9sKNalRB9)
+    - [Slider changes ball speed](https://editor.p5js.org/enickles/sketches/AGYNOlR5h)
+    - [Slider updates circle size and color](https://editor.p5js.org/enickles/sketches/ODEoMKDzJ)
+    - [Text input field with submit button](https://editor.p5js.org/enickles/sketches/occecAn4J)
+    - [p5 Reference example: Input and Button](https://p5js.org/examples/dom-input-and-button.html)
+
+### Assignment due Monday • Apr 18 • 11:59pm
+- CREATE
+    - [Complete and submit your assignment here](https://forms.gle/EHs4QGRBwdRdZdQs7)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1lnDwB6Py0t8RvkghlycbEPbIEY7Dsw4M-v7sM6aM1nY/edit?resourcekey#gid=1776981866)
+- WATCH
+    - [Coding Train Video on Uploading Media Files in the p5.js web editor](https://www.youtube.com/watch?v=rO6M5hj0V-o) ~7min
+    - [Video 7.8](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) on adding images to objects ~17min
+    - [Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
+    - [Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
+    - [Videos 17.9-17.11](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on sound visualization ~35 min
