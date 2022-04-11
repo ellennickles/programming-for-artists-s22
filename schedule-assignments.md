@@ -19,9 +19,9 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 5 | Week 9 | [Many Objects from Classes](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-5--week-9--many-objects-from-classes) | 
 | Apr 12 | Week 10 | The DOM: HTML and CSS | 
 | Apr 19 | No class | Spring Recess | 
-| Apr 26 | Week 11 | TBD | 
-| May 3 | Week 12 | TBD | 
-| May 10 | Week 13 | Final Project Proposals |
+| Apr 26 | Week 11 | Typography | 
+| May 3 | Week 12 | Images and Sound | 
+| May 10 | Week 13 | Final Project Proposals / Review |
 | May 17 | Week 14 | Final Project Studio | 
 | May 24 | Week 15 | Final Project Presentations | 
 
