@@ -17,7 +17,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Mar 22 | Week 7 | [More Arrays / Custom Functions](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-22--week-7--more-with-arrays--custom-functions) | 
 | Mar 29 | Week 8 | [Midsemester Exercise Presentations](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#mar-29--week-8--midsemester-exercise-presentations) | 
 | Apr 5 | Week 9 | [Many Objects from Classes](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-5--week-9--many-objects-from-classes) | 
-| Apr 12 | Week 10 | [The DOM: HTML and CSS]() | 
+| Apr 12 | Week 10 | [The DOM: HTML and CSS](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-12--week-10--the-dom-html-and-css) | 
 | Apr 19 | No class | Spring Recess | 
 | Apr 26 | Week 11 | Images and Sound | 
 | May 3 | Week 12 | Typography | 
