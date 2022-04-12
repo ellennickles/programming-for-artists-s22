@@ -333,6 +333,14 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Working with DOM elements/browser controls in p5: buttons, sliders, and text input fields
 
 ### Resources and examples
+- [More practice clicking on objects in p5](https://editor.p5js.org/enickles/sketches/ET9eLBBSZ)
+- DOM elements with p5:
+    - [Button updates background](https://editor.p5js.org/enickles/sketches/PTJ99zau1)
+    - [Buttons to add and clear circle](https://editor.p5js.org/enickles/sketches/9sKNalRB9)
+    - [Slider changes ball speed](https://editor.p5js.org/enickles/sketches/AGYNOlR5h)
+    - [Slider updates circle size and color](https://editor.p5js.org/enickles/sketches/ODEoMKDzJ)
+    - [Text input field with submit button](https://editor.p5js.org/enickles/sketches/occecAn4J)
+    - [p5 Reference example: Input and Button](https://p5js.org/examples/dom-input-and-button.html)
 - MDN Web Docs:
     - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
     - [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) (a list of all possible tags)
@@ -341,15 +349,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Best Website Ever v1](https://editor.p5js.org/enickles/sketches/IoDeI3t06) (HTML elements added with tags)
     - [Best Website Ever v2](https://editor.p5js.org/enickles/sketches/z4MQo_dsN) (HTML elments added with JavaScript (p5))
     - [Best Website Ever v3](https://editor.p5js.org/enickles/sketches/nzg940lOa) (Styling separated into style.css)
-- DOM elements with p5:
-    - [Button updates background](https://editor.p5js.org/enickles/sketches/PTJ99zau1)
-    - [Buttons to add and clear circle](https://editor.p5js.org/enickles/sketches/9sKNalRB9)
-    - [Slider changes ball speed](https://editor.p5js.org/enickles/sketches/AGYNOlR5h)
-    - [Slider updates circle size and color](https://editor.p5js.org/enickles/sketches/ODEoMKDzJ)
-    - [Text input field with submit button](https://editor.p5js.org/enickles/sketches/occecAn4J)
-    - [p5 Reference example: Input and Button](https://p5js.org/examples/dom-input-and-button.html)
 
-### Assignment due Monday • Apr 18 • 11:59pm
+### Assignment due Monday • Apr 25 • 11:59pm (two weeks)
 - CREATE
     - [Complete and submit your assignment here](https://forms.gle/EHs4QGRBwdRdZdQs7)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1lnDwB6Py0t8RvkghlycbEPbIEY7Dsw4M-v7sM6aM1nY/edit?resourcekey#gid=1776981866)
