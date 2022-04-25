@@ -21,7 +21,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 19 | No class | Spring Recess | 
 | Apr 26 | Week 11 | Images and Sound | 
 | May 3 | Week 12 | Typography | 
-| May 10 | Week 13 | Final Project Proposals / Review |
+| May 10 | Week 13 | Final Project Proposals / Review (Due date for late assignments)|
 | May 17 | Week 14 | Final Project Studio | 
 | May 24 | Week 15 | Final Project Presentations | 
 
