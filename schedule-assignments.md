@@ -371,8 +371,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Practice animating images
 - Adding images to objects
 - Uploading and playing sound files
-- Adjusting sound file playback
-- Measuring amplitude readings
+- Interacting with sound file playback
 
 ### Resources and examples
 - p5 demos Images:
