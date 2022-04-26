@@ -387,8 +387,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [p5.SoundFile](https://p5js.org/reference/#/p5.SoundFile) (scroll down for more examples)
     - [p5.Amplitude](https://p5js.org/reference/#/p5.Amplitude)
     - [Sound examples on this page](https://p5js.org/examples/)
-- Sound sources (credit the creators): [Orchestral Sample Library](http://virtualplaying.com/virtual-playing-orchestra/) | [Another  Orchestral Sample Library](https://github.com/sgossner/VSCO-2-CE) | [Free Music Archive](https://freemusicarchive.org/) | [Freesound](https://freesound.org/) | [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) | [Sound of Picture](https://www.soundofpicture.com/) | Routing computer sound on a Mac with [Blackhole](https://github.com/ExistentialAudio/BlackHole) | Record or generate your own!
-- Tools (free): [Audacity](https://www.audacityteam.org/) for audio editing | [media.io](https://www.media.io/) for converting and compressing media files
+- Free sound sources (credit the creators): [Orchestral Sample Library](http://virtualplaying.com/virtual-playing-orchestra/) | [Another  Orchestral Sample Library](https://github.com/sgossner/VSCO-2-CE) | [Free Music Archive](https://freemusicarchive.org/) | [Freesound](https://freesound.org/) | [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) | [Sound of Picture](https://www.soundofpicture.com/) | Routing computer sound on a Mac with [Blackhole](https://github.com/ExistentialAudio/BlackHole) | Record or generate your own!
+- Free tools: [Audacity](https://www.audacityteam.org/) for audio editing | [media.io](https://www.media.io/) for converting and compressing media files
 
 ### Assignment due Monday • May 2 • 11:59pm
 - READ & RUN SKETCHES FOR REVIEW
