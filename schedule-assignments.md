@@ -19,7 +19,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 5 | Week 9 | [Many Objects from Classes](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-5--week-9--many-objects-from-classes) | 
 | Apr 12 | Week 10 | [The DOM: HTML and CSS](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-12--week-10--the-dom-html-and-css) | 
 | Apr 19 | No class | Spring Recess | 
-| Apr 26 | Week 11 | Images and Sound | 
+| Apr 26 | Week 11 | [Images and Sound]() | 
 | May 3 | Week 12 | Typography | 
 | May 10 | Week 13 | Final Project Proposals / Review <br> (also the due date for missing assignments)|
 | May 17 | Week 14 | Final Project Studio | 
@@ -360,3 +360,44 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
     - [Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Videos 17.9-17.11](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on sound visualization ~35 min
+
+## Apr 26 • Week 11 • Images and Sound
+### Key questions
+- What are some ways to get started with image and sound files in our projects?
+- What is the [p5.sound library](https://p5js.org/reference/#/libraries/p5.sound), and what are additional options for working with audio in our projects?
+
+### In class
+- Uploading and drawing images onto the canvas
+- Practice animating images
+- Adding images to objects
+- Uploading and playing sound files
+- Adjusting sound file playback
+- Measuring amplitude readings
+
+### Resources and examples
+- p5 demos Images:
+    - [Image file basics](https://editor.p5js.org/enickles/sketches/pDj1ax78K)
+    - [Animating images](https://editor.p5js.org/enickles/sketches/NDH9yiCFE)
+    - [Objects with images](https://editor.p5js.org/enickles/sketches/WjgGggxpO)
+- p5 demos Sound:
+    - [Sound file basics](https://editor.p5js.org/enickles/sketches/siZWF_ro9)
+    - [Two sound files](https://editor.p5js.org/enickles/sketches/wiRkOA0ZF)
+    - [Visualize amplitude readings](https://editor.p5js.org/enickles/sketches/ui9oxxlMO)
+- p5 Reference sound examples:
+    - [p5.SoundFile](https://p5js.org/reference/#/p5.SoundFile) (scroll down for more examples)
+    - [p5.Amplitude](https://p5js.org/reference/#/p5.Amplitude)
+    - [Sound examples on this page](https://p5js.org/examples/)
+- Sound sources (credit the creators): [Orchestral Sample Library](http://virtualplaying.com/virtual-playing-orchestra/) | [Another  Orchestral Sample Library](https://github.com/sgossner/VSCO-2-CE) | [Free Music Archive](https://freemusicarchive.org/) | [Freesound](https://freesound.org/) | [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) | [Sound of Picture](https://www.soundofpicture.com/) | Routing computer sound on a Mac with [Blackhole](https://github.com/ExistentialAudio/BlackHole) | Record or generate your own!
+- Tools (free): [Audacity](https://www.audacityteam.org/) for audio editing | [media.io](https://www.media.io/) for converting and compressing media files
+
+### Assignment due Monday • May 2 • 11:59pm
+- READ & RUN SKETCHES FOR REVIEW
+    - Allison Parrish's [Media: Images and Sound](https://creative-coding.decontextualize.com/media/)
+- CREATE
+    - [Complete and submit your assignment here](https://forms.gle/zmjUoPZQMCWsXKmt7)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1v88HNvrL0AVfqZL-mOgY5Vn7gY5XTYa6SQg0Zpsy7N0/edit#gid=1951505957)
+- READ & RUN SKETCHES
+    - Allison Parrish's [Text and Type](https://creative-coding.decontextualize.com/text-and-type/)
+- WATCH 
+    - [xin xin's Experimental Typography Series, Videos 1.1 and 1.2](https://www.youtube.com/playlist?list=PLT233rQkMw74I0EK3HmXisnZABTz2lupP) ~37min
+    - (OPTIONAL) [Video 1.3](https://www.youtube.com/playlist?list=PLT233rQkMw74I0EK3HmXisnZABTz2lupP) ~27min
