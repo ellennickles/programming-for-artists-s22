@@ -164,20 +164,27 @@ These are worth four (5) points, one (1) point for each of the following:
     - What code-related questions came up for you? Or, what do you want to know more about or how to do? 
 
 ### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
+- **Description**: The final project is an open-ended creative project that builds off or is inspired by the course topics. More information: 
+    - The final project is a three (3) week assignment to be completed in three (3) stages: Proposal (due Week 13), prototype to share in class for feedback (due Week 14), and a presentation of the completed project (due Week 15).
+    - Final projects can be collaborations with anyone in any class.
+    - Final projects can be one part of a larger project integrated with a different class.
+    - Keeping things simple and small in scope is a plus. If your project idea is a big one, consider documenting the larger idea but implementing just a small piece of it.
+    - Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all).
+    - Your project can also veer into a new direction that we haven't explored in class!
 - **Proposal**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
-    - *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
-    - *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
-    - *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
-    - *Plan*: What steps do you need to take to bring your project to completion?
-    - *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
+    1. *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
+    2. *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
+    3. *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
+    4. *Plan*: What steps do you need to take to bring your project to completion?
+    5. *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 - **Prototype**: A prototype of you project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Completed project**: Your completed project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
-    - Demonstrate what your project does that emphasizes its computational aspects.
-    - Walk us through the code related to the feature that most interests you.
-    - What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
-    - Are there any next steps to further develop the project?
-    - How do you feel about WHY you might want to use code in your work now compared to the beginning of the semester? 
+    1. Demonstrate what your project does that emphasizes its computational aspects.
+    2. Walk us through the code related to the feature that most interests you.
+    3. What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
+    4. Are there any next steps to further develop the project?
+    5. How do you feel about WHY you might want to use code in your work now compared to the beginning of the semester? 
 
 ### Final Course Evaluation 
 Your final grade will be based on participation and attendance and the completion of all assignments, including the midsemester exercise and final project, according to this breakdown:
