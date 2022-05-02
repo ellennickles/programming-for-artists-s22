@@ -166,17 +166,19 @@ These are worth four (5) points, one (1) point for each of the following:
 ### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
 - **Description**: The final project is an open-ended creative project that builds off or is inspired by the course topics. More information: 
     - The final project is a three (3) week assignment to be completed in three (3) stages: Proposal (due Week 13), prototype to share in class for feedback (due Week 14), and a presentation of the completed project (due Week 15).
+    - There is no requirement to use a particular aspect of programming. Focus on an idea that excites you and choose the best programming concepts and tools to help you realize it.
+    - You can take something you've already made and develop it further or create something entirely new.
     - Final projects can be collaborations with anyone in any class.
     - Final projects can be one part of a larger project integrated with a different class.
     - Keeping things simple and small in scope is a plus. If your project idea is a big one, consider documenting the larger idea but implementing just a small piece of it.
     - Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all).
     - Your project can also veer into a new direction that we haven't explored in class!
 - **Proposal**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
-    1. *Inspiration*: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
-    2. *Creative choices*: What ideas you will explore to distinguish your piece and reflect your own point of view?
-    3. *Context*: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
-    4. *Plan*: What steps do you need to take to bring your project to completion?
-    5. *Questions for your classmates*: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
+    1. **Inspiration**: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
+    2. **Creative choices**: What ideas you will explore to distinguish your piece and reflect your own point of view?
+    3. **Context**: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
+    4. **Plan**: What steps do you need to take to bring your project to completion?
+    5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 - **Prototype**: A prototype of you project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Completed project**: Your completed project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
