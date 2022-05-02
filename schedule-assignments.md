@@ -448,7 +448,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 1. **Inspiration**: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
 2. **Creative choices**: What ideas you will explore to distinguish your piece and reflect your own point of view?
 3. **Context**: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
-4. **Plan**: What steps do you need to take to bring your project to completion? For example, do you need to collect any media assets? Do you need to build the project in a particular order? Do you need to review anything from class? Rearch and learn something new? What else?
+4. **Plan**: What steps do you need to take to bring your project to completion? For example, do you need to collect any media assets? Do you need to build the project in a particular order? Do you need to review anything from class? Research and learn something new? What else?
 5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 
 #### Part 3: Prepare a four (4)-minute presentation to share your proposal next week
