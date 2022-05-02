@@ -20,7 +20,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 12 | Week 10 | [The DOM: HTML and CSS](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-12--week-10--the-dom-html-and-css) | 
 | Apr 19 | No class | Spring Recess | 
 | Apr 26 | Week 11 | [Images and Sound](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-26--week-11--images-and-sound) | 
-| May 3 | Week 12 | Typography | 
+| May 3 | Week 12 | [Typography](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#may-3--week-12--typography) | 
 | May 10 | Week 13 | Final Project Proposals / Review <br> (also the due date for missing assignments)|
 | May 17 | Week 14 | Final Project Studio | 
 | May 24 | Week 15 | Final Project Presentations | 
@@ -416,7 +416,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Anonymous survey for topic review next week
 - Discuss final projects proposals
 
-### Resources and examples (links TBA)
+### Resources and examples
 - References
     - [Typography functions](https://p5js.org/reference/#group-Typography)
     - Related [Web safe fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts) (no need to upload these as separate files)
