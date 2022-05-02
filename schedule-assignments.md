@@ -400,3 +400,58 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - WATCH 
     - [xin xin's Experimental Typography Series, Videos 1.1 and 1.2](https://www.youtube.com/playlist?list=PLT233rQkMw74I0EK3HmXisnZABTz2lupP) ~37min
     - (OPTIONAL) [Video 1.3](https://www.youtube.com/playlist?list=PLT233rQkMw74I0EK3HmXisnZABTz2lupP) ~27min
+
+## May 3 • Week 12 • Typography
+### Key questions
+- How can we load different fonts into our programs? (review)
+- What are ways to position, scale, animate, and otherwise modify text? 
+- How can we make text dynamic and responsive? 
+- How can we access, alter, animate, and/or interact with the outlines of letterforms?
+- What are the expectations the course's final project?
+
+### In class
+- Introduction to text as a dynamic form
+- Retrieving lines of text from a .txt file
+- Computational outlines of letterforms
+- Anonymous survey for topic review next week
+- Discuss final projects proposals
+
+### Resources and examples (links TBA)
+- References
+    - [Typography functions](https://p5js.org/reference/#group-Typography)
+    - Related [Web safe fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts) (no need to upload these as separate files)
+    - Visit [Font Squirrel](https://www.fontsquirrel.com/) to easily download OTF fonts
+- p5 demos:
+    - [Text as dynamic form](https://editor.p5js.org/enickles/sketches/wsTT9Tl-b)
+    - [Array vs string](https://editor.p5js.org/enickles/sketches/oGsyTKXdx)
+    - [Scattered characters](https://editor.p5js.org/enickles/sketches/v9Gl4p5ED)
+    - [Shaking characters](https://editor.p5js.org/enickles/sketches/whpqHzBmF)
+    - [Lines from .txt file (story starters)](https://editor.p5js.org/enickles/sketches/e3gU9GmhK)
+    - [textToPoints() basics](https://editor.p5js.org/enickles/sketches/lCMZ-k91H)
+    - [textToPoints() points as custom objects](https://editor.p5js.org/enickles/sketches/pqS0YKz7n)
+- More examples!
+    - [`textToPoints()`](https://p5js.org/reference/#/p5.Font/textToPoints)
+    - [Example of text rotation](https://p5js.org/examples/typography-text-rotation.html)
+    - [Allison Parrish's Languages of motion and interactivity with text](http://comptypo.decontextualize.com/public/interactive-demos.html) (with links to p5 sketches)
+    - [Text to Points examples by aferris](https://editor.p5js.org/aferriss/sketches/B1BOfBdZX)
+    - [Generative Design: Type Examples](http://www.generative-gestaltung.de/2/) (scroll down for those, but this entire site is great!)
+    - [Erratic Generator: p5.js textToPoints() function](https://erraticgenerator.com/blog/p5js-texttopoints-function/)
+    - [Lynne Yun: Kinetic Typography](https://www.lynneyun.com/kinetic-typography)
+    - [From Kevin Yeh and Lynne Yun's Students: Generative Type Student Gallery](https://generativetype.com/) (some of the examples link to p5 sketches)
+    - [FYI: Yeh and Yun's course, Generative Typography](https://github.com/spacetypeco/generative-typography-SU20)
+
+### Assignment due Tuesday • May 10 • Start of class
+
+#### Part 1: Read the [Final Project description and expectations](https://github.com/ellennickles/programming-for-artists-s22#final-project-1) on the course syllabus
+
+#### Part 2: Research your final project idea
+1. **Inspiration**: Research your proposal and collect some notes. How did you become interested in this idea? Quotes, photographs, products, projects, people, music, political events, social ills? Do you have an drawings, images, videos, sounds, or text to help illustrate what's in your head? Do you have any of your own sketches and/or other people's sketches?
+2. **Creative choices**: What ideas you will explore to distinguish your piece and reflect your own point of view?
+3. **Context**: What is the story? Who's it for? How will people experience it? Is it interactive? Is it practical? Is it for fun? Is it emotional? Is it to provoke something?
+4. **Plan**: What steps do you need to take to bring your project to completion? For example, do you need to collect any media assets? Do you need to build the project in a particular order? Do you need to review anything from class? Rearch and learn something new? What else?
+5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
+
+#### Part 3: Prepare a four (4)-minute presentation to share your proposal next week
+- Using this [slide presentation](https://docs.google.com/presentation/d/1TgJ_E_uyt5Y0OZEJZXuvcCWc2gBySiR6pt9NlTaQPao/edit?usp=sharing), take one (1) to three (3) slides to address each of the questions above for full credit. 
+- You should feel free to use your slides to present your idea in any way that makes the most sense for your project idea.
+- *NOTE*: Everyone in the class will share and present from this same presentation file.
