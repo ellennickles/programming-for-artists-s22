@@ -452,7 +452,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 
 #### Part 3: Plan to present your idea in ~4 minutes next week
-- [Add one to two slides to this document](https://docs.google.com/presentation/d/1TgJ_E_uyt5Y0OZEJZXuvcCWc2gBySiR6pt9NlTaQPao/edit?usp=sharing) with your name and some keywords, images, or embed video, etc. to illustrate what’s in your head.
+- [Add one to two slides to this document](https://docs.google.com/presentation/d/1TgJ_E_uyt5Y0OZEJZXuvcCWc2gBySiR6pt9NlTaQPao/edit?usp=sharing) (shared with your CUNY Google account) with your name and some keywords, images, or embed video, etc. to illustrate what’s in your head.
 - For full credit be sure to address each of the above research areas in your presentation.
 - You should feel free to use your slide(s) to present your idea in any way that makes the most sense for your project idea.
 - *NOTE*: Everyone in the class will share and present from this same presentation file.
