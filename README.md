@@ -164,8 +164,8 @@ These are worth four (5) points, one (1) point for each of the following:
     - What code-related questions came up for you? Or, what do you want to know more about or how to do? 
 
 ### [Final Project](https://github.com/ellennickles/programming-for-artists-s22/blob/main/README.md#final-project)
-- **Description**: The final project is an open-ended creative project that builds off or is inspired by the course topics. More information: 
-    - The final project is a three (3) week assignment to be completed in three (3) stages: Proposal (due Week 13), prototype to share in class for feedback (due Week 14), and a presentation of the completed project (due Week 15).
+- **Description**: Final projects are a creative idea inspired by the concepts in this class and an opportunity to push your abilities to produce something that utilizes what you have learned. More information: 
+    - It is a three (3) week assignment to be completed in three (3) stages: Proposal (due Week 13), prototype to share in class for feedback (due Week 14), and a presentation of the completed project (due Week 15).
     - There is no requirement to use a particular aspect of programming. Focus on an idea that excites you and choose the best programming concepts and tools to help you realize it.
     - You can take something you've already made and develop it further or create something entirely new.
     - Final projects can be collaborations with anyone in any class.
