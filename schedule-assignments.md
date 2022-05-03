@@ -451,7 +451,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 4. **Plan**: What steps do you need to take to bring your project to completion? For example, do you need to collect any media assets? Do you need to build the project in a particular order? Do you need to review anything from class? Research and learn something new? What else?
 5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 
-#### Part 3: Prepare a four (4)-minute presentation to share your proposal next week
-- Using this [slide presentation](https://docs.google.com/presentation/d/1TgJ_E_uyt5Y0OZEJZXuvcCWc2gBySiR6pt9NlTaQPao/edit?usp=sharing), take one (1) to three (3) slides to address each of the questions above for full credit. 
-- You should feel free to use your slides to present your idea in any way that makes the most sense for your project idea.
+#### Part 3: Plan to present your idea in ~4 minutes next week
+- [Add one to two slides to this document](https://docs.google.com/presentation/d/1TgJ_E_uyt5Y0OZEJZXuvcCWc2gBySiR6pt9NlTaQPao/edit?usp=sharing) with your name and some keywords, images, or embed video, etc. to illustrate what’s in your head.
+- For full credit be sure to address each of the above research areas in your presentation.
+- You should feel free to use your slide(s) to present your idea in any way that makes the most sense for your project idea.
 - *NOTE*: Everyone in the class will share and present from this same presentation file.
