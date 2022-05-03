@@ -420,6 +420,7 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - References
     - [Typography functions](https://p5js.org/reference/#group-Typography)
     - Related [Web safe fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts) (no need to upload these as separate files)
+    - [`textToPoints()`](https://p5js.org/reference/#/p5.Font/textToPoints) - make sure to use with OTF fonts!
     - Visit [Font Squirrel](https://www.fontsquirrel.com/) to easily download OTF fonts
 - p5 demos:
     - [Text as dynamic form](https://editor.p5js.org/enickles/sketches/wsTT9Tl-b)
@@ -430,7 +431,6 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
     - [textToPoints() basics](https://editor.p5js.org/enickles/sketches/lCMZ-k91H)
     - [textToPoints() points as custom objects](https://editor.p5js.org/enickles/sketches/pqS0YKz7n)
 - More examples!
-    - [`textToPoints()`](https://p5js.org/reference/#/p5.Font/textToPoints)
     - [Example of text rotation](https://p5js.org/examples/typography-text-rotation.html)
     - [Allison Parrish's Languages of motion and interactivity with text](http://comptypo.decontextualize.com/public/interactive-demos.html) (with links to p5 sketches)
     - [Text to Points examples by aferris](https://editor.p5js.org/aferriss/sketches/B1BOfBdZX)
