@@ -456,3 +456,20 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - For full credit be sure to address each of the above research areas in your presentation.
 - You should feel free to use your slide(s) to present your idea in any way that makes the most sense for your project.
 - *NOTE*: Everyone in the class will share and present from this same presentation file.
+
+## May 10 • Week 13 • Final Project Proposals / Review
+### Key questions
+- What creative ideas are we excited to explore through computation for the remainder of the course?
+- How can we keep our projects manageable in scope? What steps do we need to take to bring our projects to completion?  
+
+### In class
+- Share proposals for feedback
+- Time permitting, review programming concepts
+
+### Resources and examples
+- TBA
+
+### Assignment due Monday • May 16 • 11:59pm
+- FINAL PROJECT PROTOTYPE
+    - [Complete and submit your assignment here](https://forms.gle/4yBeEidSnbV78e7H6)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1zllDsOB4NSVyCqRnarz9XkRzRo-rtpGqHRA4-4A1W7E/edit?usp=sharing)
