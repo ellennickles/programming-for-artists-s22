@@ -467,7 +467,14 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - Time permitting, review programming concepts
 
 ### Resources and examples
-- TBA
+- Resource for your final projects
+    - [Processing Foundation Discourse](https://discourse.processing.org/) (an archive and forum for asking / answering Processing and p5.js questions)
+- Full screen considerations
+    - [Canvas size equals size of window](https://editor.p5js.org/enickles/sketches/sWVB9wh5m)
+    - [Canvas size and graphic elements respond to changes in window size (responsive)](https://editor.p5js.org/enickles/sketches/uKxuhAfK_)
+- Quick review
+    - [Review loops](https://editor.p5js.org/enickles/sketches/bF3mvesce)
+    - [Review classes and objects](https://editor.p5js.org/enickles/sketches/xLKsugaxW)
 
 ### Assignment due Monday • May 16 • 11:59pm
 - FINAL PROJECT PROTOTYPE
