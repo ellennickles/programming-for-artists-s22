@@ -183,7 +183,7 @@ These are worth four (5) points, one (1) point for each of the following:
 - **Completed project**: Your completed project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Presentation**: This is a five (5) minute presentation worth five (5) points, one (1) point for addressing each of the following:
     1. Describe and demonstrate what your project does that emphasizes its computational aspects, e.g. is there animation, interaction, a computationally-generated color palette, etc.
-    2. Walk us through the code related to the feature that most interests you.
+    2. Walk us through the code related to the features that most interest you, and explain what you did in your code to produce those features. Practice any new vocabulary you’ve acquired for describing technical work. Talk about what programming concept(s) you are using, e.g. objects and arrays, nested for loops, toggle logic, custom functions, etc.
     3. What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
     4. Are there any next steps to further develop the project?
     5. How do you feel about WHY you might want to use code in your work (or not) now compared to the beginning of the semester? 
