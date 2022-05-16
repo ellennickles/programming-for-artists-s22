@@ -22,8 +22,8 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 | Apr 26 | Week 11 | [Images and Sound](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#apr-26--week-11--images-and-sound) | 
 | May 3 | Week 12 | [Typography](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#may-3--week-12--typography) | 
 | May 10 | Week 13 | [Final Project Proposals / Review](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#may-10--week-13--final-project-proposals--review) <br> (also the due date for missing assignments)|
-| May 17 | Week 14 | Final Project Studio | 
-| May 24 | Week 15 | Final Project Presentations | 
+| May 17 | Week 14 | [Final Project Studio](https://github.com/ellennickles/programming-for-artists-s22/blob/main/schedule-assignments.md#may-17--week-14--final-project-studio) | 
+| May 24 | Week 15 | [Final Project Presentations](https://github.com/ellennickles/programming-for-artists-s22/edit/main/schedule-assignments.md#may-24--week-15--final-project-presentations) | 
 
 
 ## Feb 1 • Week 1 • Introduction and Drawing
