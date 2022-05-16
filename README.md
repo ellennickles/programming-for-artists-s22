@@ -186,7 +186,7 @@ These are worth four (5) points, one (1) point for each of the following:
     2. Walk us through the code related to the feature that most interests you.
     3. What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
     4. Are there any next steps to further develop the project?
-    5. How do you feel about WHY you might want to use code in your work now compared to the beginning of the semester? 
+    5. How do you feel about WHY you might want to use code in your work (or not) now compared to the beginning of the semester? 
 
 ### Final Course Evaluation 
 Your final grade will be based on participation and attendance and the completion of all assignments, including the midsemester exercise and final project, according to this breakdown:
