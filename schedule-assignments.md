@@ -480,3 +480,37 @@ Quicklinks • [Syllabus](https://github.com/ellennickles/programming-for-artist
 - FINAL PROJECT PROTOTYPE
     - [Complete and submit your assignment here](https://forms.gle/4yBeEidSnbV78e7H6)
     - [See assignment responses here](https://docs.google.com/spreadsheets/d/1zllDsOB4NSVyCqRnarz9XkRzRo-rtpGqHRA4-4A1W7E/edit?usp=sharing)
+
+## May 17 • Week 14 • Final Project Studio
+### Key questions
+- **As creators**, how can we share and user test our projects without explaining the project until after the user has viewed or interacted with it? How can we leave ourselves open to honest criticism of our work without the need to justify or defend it?
+- **As project testers**, how can we describe the experience and form relationships between what we experience or observe? Can we interpret why we've experienced what we experienced?
+    - What do we feel? What does this remind us of? 
+    - What stands out to us? Can we evaluate the experience? 
+    - Is there an insight or a novel approach? 
+    - In what ways does the project achieve its goals? 
+    - In what way does it fall short? 
+    - What changes could be implemented to move the project forward in a constructive way?
+
+### In class
+- Round robin user testing
+- Studio time
+- Course evaluation
+
+### Assignment due Monday • May 24 • Start of class
+- FINAL PROJECT
+    - [Submit your final project here](https://forms.gle/egrxQBxBFrkRQgvr9)
+    - [See assignment responses here](https://docs.google.com/spreadsheets/d/1Ibg7H_d75YmmqxFfIBX6XKKLatgEjScQ0AZE7MjjqrQ/edit?usp=sharing)
+
+
+## May 24 • Week 15 • Final Project Presentations
+### Key questions
+- What do our projects do and why?
+- How can we talk about our final projects using the programming concepts and vocabulary from this course?
+- What did we learn from the process and are there any next steps to develop our projects? 
+- In what ways might we use code (or not) in our future work?
+
+### In class
+- Welcome and general notes
+- Final project presentations 🙌
+- Closing remarks
