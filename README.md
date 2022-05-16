@@ -181,7 +181,7 @@ These are worth four (5) points, one (1) point for each of the following:
     5. **Questions for your classmates**: What are you unsure of, conceptually and technically? On what aspect(s) would you like feedback?
 - **Prototype**: A prototype of you project is worth five (5) points, and the evaluation will follow the above critera for the code.
 - **Completed project**: Your completed project is worth five (5) points, and the evaluation will follow the above critera for the code.
-- **Presentation**: This is a four (4) minute presentation worth five (5) points, one (1) point for addressing each of the following:
+- **Presentation**: This is a five (5) minute presentation worth five (5) points, one (1) point for addressing each of the following:
     1. Demonstrate what your project does that emphasizes its computational aspects.
     2. Walk us through the code related to the feature that most interests you.
     3. What did you learn? What were some of the successes and challenges? If you struggled with your sketch and couldn't get things to work, you should feel free to put your energy into talking about what didn't work and vent any frustrations.
